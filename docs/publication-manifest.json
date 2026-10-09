@@ -1,0 +1,500 @@
+{
+  "schema_version": 2,
+  "content_version": "0.1.0-research-preview",
+  "repository": "https://github.com/eranb007/research",
+  "purpose": "Content integrity and provenance; not a publication/approval receipt.",
+  "self_hash_policy": "Lists every other payload file. A separate sealed external manifest binds this file too.",
+  "source_dependency_note": "Safe IDs resolve in results/provenance.json. Hashes do not grant source access.",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "b0baf672cdcf0769831b73ea391b3902d1ec1a530fd5b673a7fda03a8d468082",
+      "bytes": 782,
+      "source_dependencies": [
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-LINKEDIN-PART-1",
+        "EVID-LINKEDIN-PART-2",
+        "EVID-LINKEDIN-PART-3",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25",
+        "EVID-SEP-MATRIX"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "32796b06218e1cdd02a3216e7c8676e6c622ca5e69cfd60e48ce132220a7281d",
+      "bytes": 772,
+      "source_dependencies": [],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "7113774da022257aba64a5329480360f6b3108153d4ab86e1095adff57076f20",
+      "bytes": 1241,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.md",
+      "sha256": "c90eb1b6ea80f5d0199537918ab60e935fc80a000b2cd03dba9cf192cbfa6fa5",
+      "bytes": 904,
+      "source_dependencies": [],
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/CC0-1.0.md",
+      "sha256": "1ffd3dee238a431ae2e33ecdcc1db4e562e44c277b6bc33a4763cb1527fbbef0",
+      "bytes": 744,
+      "source_dependencies": [],
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/DATA-TERMS.md",
+      "sha256": "b00b537f204337249ad2a50b24c531440d432a2135e81572c7904659da58c5da",
+      "bytes": 1784,
+      "source_dependencies": [],
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/MIT.txt",
+      "sha256": "cb350b649633d39f23ae0f569da66f2c398a0f8205ec8c7f7b8c6d116f8c544c",
+      "bytes": 1086,
+      "source_dependencies": [],
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/README.md",
+      "sha256": "715c0c60836a8ef80215e36d58e298067e7d3986be06671f5c82a0b23de341e8",
+      "bytes": 1568,
+      "source_dependencies": [],
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/scope.json",
+      "sha256": "81f85d3935e8cefb2c3f559089a1a5582fd3eac6d96162516f6113d65e3b7e76",
+      "bytes": 5546,
+      "source_dependencies": [],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ae07bc177f78937eef1cc26a6a0981c11f4b126b34a70606afb5f77943cc7e3f",
+      "bytes": 4320,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "sha256": "6cb89142fdd5d32c3e7ec4d8ad3fdd2ab403a4f39112899244503ca5bbf47b20",
+      "bytes": 2142,
+      "source_dependencies": [
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-LINKEDIN-PART-1",
+        "EVID-LINKEDIN-PART-2",
+        "EVID-LINKEDIN-PART-3",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25",
+        "EVID-SEP-MATRIX"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "docs/publication-policy.md",
+      "sha256": "67741290461d88872aa765f467ba708022731c3cddc8b832c54992d11e8056e0",
+      "bytes": 1609,
+      "source_dependencies": [],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/CHANGELOG.md",
+      "sha256": "8f3d631b32da5402257817b480dbe57d4d266ef676b73a8fd02f265fa99513f8",
+      "bytes": 651,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/README.md",
+      "sha256": "a6b5bc2b1a26a2c9bb522ed933f4beaf52098a2175b3dae557497db9009ea11a",
+      "bytes": 2864,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/articles/README.md",
+      "sha256": "66fc5f9664e457c019ec856877b8e475cebb71fd29e5bc324cd319fe07e83540",
+      "bytes": 3821,
+      "source_dependencies": [
+        "EVID-ARTICLE-1",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-ARTICLE-SERIES",
+        "EVID-LINKEDIN-PART-1",
+        "EVID-LINKEDIN-PART-2",
+        "EVID-LINKEDIN-PART-3",
+        "EVID-SEP-MATRIX",
+        "EVID-SERIES-3",
+        "EVID-STATE"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/experiments.md",
+      "sha256": "c86d107c3ec693b9db1aed26e8d1b2be64b733b5423acdcd0736b23014350c69",
+      "bytes": 3046,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/README.md",
+      "sha256": "49444acb4503287131bf03b88f779567ee8e6091be73fc6847fb1dd439980be7",
+      "bytes": 811,
+      "source_dependencies": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/manifest.json",
+      "sha256": "44c3d6428820de541cae6a1eac28c80631d55b3e5814ad8305c5a278a0c003cf",
+      "bytes": 1061,
+      "source_dependencies": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/reconciliation-coverage.png",
+      "sha256": "c81ee5cff91fc09caa0922fbb7370a04ff4be4946bed9bfd3368e5d7452db61f",
+      "bytes": 61643,
+      "source_dependencies": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/reconciliation-coverage.svg",
+      "sha256": "1b030d38a5de103f4e6467d72d33bbb3b3f47f1ce9f292eb978b2ef977d65f5b",
+      "bytes": 12222,
+      "source_dependencies": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/limitations.md",
+      "sha256": "24019de6679fd82c78f39d2498e695a2ca8afefd007033463cd2498949ae52f0",
+      "bytes": 2569,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/methodology.md",
+      "sha256": "ee4745b1bc9ffa692cbacf56a844ed517464640a4ce4d13e4d89c8d0c5ec111b",
+      "bytes": 4004,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/README.md",
+      "sha256": "6d496172e96d5cc73ff52c6eac496a80c691b4ace93cfdc46c3a1d19d6509714",
+      "bytes": 3114,
+      "source_dependencies": [],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/boundary_demo.py",
+      "sha256": "dfc10b78722474efc66051323eb587fc529d3f4e3753f3c791ee5b9a34c75c6c",
+      "bytes": 1471,
+      "source_dependencies": [],
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/check.py",
+      "sha256": "7794e12154be5a7fe1e9ce2ab5055423c42e504a038aa139d8d9cc1aac50f758",
+      "bytes": 7526,
+      "source_dependencies": [],
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/expected.json",
+      "sha256": "9584484ad566710d63dfc40f65ec603def7315b7803944e10007cb58b66973c2",
+      "bytes": 490,
+      "source_dependencies": [],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/plot_coverage.py",
+      "sha256": "3bcb85f95c47541986e3118e6879123009f8b1d8dc7c67dc04a21b363e235ad8",
+      "bytes": 1938,
+      "source_dependencies": [],
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/requirements-figures.txt",
+      "sha256": "2279f0cdad44211740ad3c5aa8ffb93e43e63caffc39b5274b6ca4a793cc32f2",
+      "bytes": 18,
+      "source_dependencies": [],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/test_validation.py",
+      "sha256": "181df70aadc8af439e2960c77b415e0d06bdda5c433369932e38c19bf9b601bc",
+      "bytes": 7980,
+      "source_dependencies": [],
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/research-questions.md",
+      "sha256": "f05543ebd4ddaeec49c636b97796e244c79ef75cc62009757d39aef5144c2e1e",
+      "bytes": 884,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/README.md",
+      "sha256": "b6a77f58e0bb2282d5c8064f1acb914c3790cb5bff6581640b3a75713ada76a6",
+      "bytes": 4669,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/claims.json",
+      "sha256": "66942e9492c0716aaab69c66bb482547d508c20207372a1700affdd6c925f6e0",
+      "bytes": 22681,
+      "source_dependencies": [
+        "EVID-ARTICLE-1",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-ARTICLE-SERIES",
+        "EVID-EARLY-ARTICLE",
+        "EVID-EARLY-NARRATIVE",
+        "EVID-LINKEDIN-PART-1",
+        "EVID-LINKEDIN-PART-2",
+        "EVID-LINKEDIN-PART-3",
+        "EVID-OBS-01-REQUEST",
+        "EVID-OBS-01-RESPONSE",
+        "EVID-OBS-01-SCORE",
+        "EVID-OBS-02-REQUEST",
+        "EVID-OBS-02-RESPONSE",
+        "EVID-OBS-02-SCORE",
+        "EVID-OBS-03-BEHAVIOR-PROOF",
+        "EVID-OBS-03-REQUEST",
+        "EVID-OBS-03-RESPONSE",
+        "EVID-OBS-03-SCORE",
+        "EVID-OBS-04-REQUEST",
+        "EVID-OBS-04-RESPONSE",
+        "EVID-OBS-04-SCORE",
+        "EVID-OBS-05-REQUEST",
+        "EVID-OBS-05-RESPONSE",
+        "EVID-OBS-05-SCORE",
+        "EVID-OBS-06-REQUEST",
+        "EVID-OBS-06-RESPONSE",
+        "EVID-OBS-06-SCORE",
+        "EVID-OBS-07-REQUEST",
+        "EVID-OBS-07-RESPONSE",
+        "EVID-OBS-07-SCORE",
+        "EVID-OBS-08-REQUEST",
+        "EVID-OBS-08-RESPONSE",
+        "EVID-OBS-08-SCORE",
+        "EVID-OBS-09-BEHAVIOR-PROOF",
+        "EVID-OBS-09-REQUEST",
+        "EVID-OBS-09-RESPONSE",
+        "EVID-OBS-09-SCORE",
+        "EVID-OCT-PROTOCOL",
+        "EVID-ORIGINAL-CONTEXT",
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25",
+        "EVID-SELECTED-CONTROLS",
+        "EVID-SEP-MATRIX",
+        "EVID-SEP-REPORT",
+        "EVID-SERIES-3",
+        "EVID-STATE",
+        "EVID-V2-AUTH",
+        "EVID-V2-IMPLEMENTATION",
+        "EVID-V2-LOCK"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/models.json",
+      "sha256": "8506784f9518f69a3c684aeb29b434eaf3bf039f56b1f128b6d9ec775b24d1cf",
+      "bytes": 1253,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-SEP-REPORT"
+      ],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/provenance.json",
+      "sha256": "e706762435086eaf7aea9999bdfb866dd687ee49857391cb0949808fee5824ae",
+      "bytes": 19584,
+      "source_dependencies": [
+        "EVID-ARTICLE-1",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-ARTICLE-SERIES",
+        "EVID-EARLY-ARTICLE",
+        "EVID-EARLY-NARRATIVE",
+        "EVID-LINKEDIN-PART-1",
+        "EVID-LINKEDIN-PART-2",
+        "EVID-LINKEDIN-PART-3",
+        "EVID-OBS-01-REQUEST",
+        "EVID-OBS-01-RESPONSE",
+        "EVID-OBS-01-SCORE",
+        "EVID-OBS-02-REQUEST",
+        "EVID-OBS-02-RESPONSE",
+        "EVID-OBS-02-SCORE",
+        "EVID-OBS-03-BEHAVIOR-PROOF",
+        "EVID-OBS-03-REQUEST",
+        "EVID-OBS-03-RESPONSE",
+        "EVID-OBS-03-SCORE",
+        "EVID-OBS-04-REQUEST",
+        "EVID-OBS-04-RESPONSE",
+        "EVID-OBS-04-SCORE",
+        "EVID-OBS-05-REQUEST",
+        "EVID-OBS-05-RESPONSE",
+        "EVID-OBS-05-SCORE",
+        "EVID-OBS-06-REQUEST",
+        "EVID-OBS-06-RESPONSE",
+        "EVID-OBS-06-SCORE",
+        "EVID-OBS-07-REQUEST",
+        "EVID-OBS-07-RESPONSE",
+        "EVID-OBS-07-SCORE",
+        "EVID-OBS-08-REQUEST",
+        "EVID-OBS-08-RESPONSE",
+        "EVID-OBS-08-SCORE",
+        "EVID-OBS-09-BEHAVIOR-PROOF",
+        "EVID-OBS-09-REQUEST",
+        "EVID-OBS-09-RESPONSE",
+        "EVID-OBS-09-SCORE",
+        "EVID-OCT-PROTOCOL",
+        "EVID-ORIGINAL-CONTEXT",
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25",
+        "EVID-SELECTED-CONTROLS",
+        "EVID-SEP-MATRIX",
+        "EVID-SEP-REPORT",
+        "EVID-SERIES-3",
+        "EVID-STATE",
+        "EVID-V2-AUTH",
+        "EVID-V2-IMPLEMENTATION",
+        "EVID-V2-LOCK"
+      ],
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/reconciliation-coverage.csv",
+      "sha256": "7f15e707cac6fb2824c75eaf7689c7ddd9e2478c89ed327fc07a6f74b0b7b6b6",
+      "bytes": 319,
+      "source_dependencies": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/selected-edits.csv",
+      "sha256": "a2e4dea11216eb0de19fa874d9f5fb3edceec8c8080767b8d053129aa13fd48e",
+      "bytes": 1871,
+      "source_dependencies": [
+        "EVID-OBS-01-REQUEST",
+        "EVID-OBS-01-RESPONSE",
+        "EVID-OBS-01-SCORE",
+        "EVID-OBS-02-REQUEST",
+        "EVID-OBS-02-RESPONSE",
+        "EVID-OBS-02-SCORE",
+        "EVID-OBS-03-REQUEST",
+        "EVID-OBS-03-RESPONSE",
+        "EVID-OBS-03-SCORE",
+        "EVID-OBS-03-BEHAVIOR-PROOF",
+        "EVID-OBS-04-REQUEST",
+        "EVID-OBS-04-RESPONSE",
+        "EVID-OBS-04-SCORE",
+        "EVID-OBS-05-REQUEST",
+        "EVID-OBS-05-RESPONSE",
+        "EVID-OBS-05-SCORE",
+        "EVID-OBS-06-REQUEST",
+        "EVID-OBS-06-RESPONSE",
+        "EVID-OBS-06-SCORE",
+        "EVID-OBS-07-REQUEST",
+        "EVID-OBS-07-RESPONSE",
+        "EVID-OBS-07-SCORE",
+        "EVID-OBS-08-REQUEST",
+        "EVID-OBS-08-RESPONSE",
+        "EVID-OBS-08-SCORE",
+        "EVID-OBS-09-REQUEST",
+        "EVID-OBS-09-RESPONSE",
+        "EVID-OBS-09-SCORE",
+        "EVID-OBS-09-BEHAVIOR-PROOF"
+      ],
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/roadmap.md",
+      "sha256": "934a09afb8fe9bb4d272f62028f8b227713ecc5806044d17f66dc93b6bc11102",
+      "bytes": 1302,
+      "source_dependencies": [
+        "EVID-SEP-MATRIX",
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-OCT-PROTOCOL",
+        "EVID-RECON-v1.25"
+      ],
+      "license_scope": "CC-BY-4.0"
+    }
+  ]
+}

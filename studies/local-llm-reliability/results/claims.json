@@ -1,0 +1,556 @@
+{
+  "schema_version": 1,
+  "claims": [
+    {
+      "claim_id": "CLM-001",
+      "statement": "Six historical Q4_K_M Ollama model artifacts were represented in the September study.",
+      "evidence_refs": [
+        "EVID-SEP-MATRIX",
+        "EVID-ORIGINAL-CONTEXT"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Recorded manifest identities, not vendor certification or current inventory."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "models.json"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-002",
+      "statement": "The September matrix indexes 242 run/result rows, including 176 stored requests; record classifications overlap.",
+      "evidence_refs": [
+        "EVID-SEP-MATRIX"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "20 skipped-allocation rows and 76 context rows are separate overlapping classifications; not additional independent samples."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-003",
+      "statement": "The selected Coder and Qwen3.8 primary guarded records each admit five proposals and reference-match five resulting files.",
+      "evidence_refs": [
+        "EVID-OBS-05-SCORE",
+        "EVID-OBS-06-SCORE"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "One shared five-target fixture per record; exact in-memory reference equality is not five independently proven fixes."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "selected-edits.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-004",
+      "statement": "The Gemma31 fixed-order constrained pair records zero then four admissions out of five targets.",
+      "evidence_refs": [
+        "EVID-OBS-02-SCORE",
+        "EVID-OBS-07-SCORE",
+        "EVID-ORIGINAL-CONTEXT"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Both prompts constrained; same recorded options, one seed, no causal prompt effect or semantic verdict on rejected text."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "selected-edits.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-005",
+      "statement": "GLM primary and Granite reasoning-off rescue admit five proposals but match four reference files; supplied proofs demonstrate a selected result-shape failure.",
+      "evidence_refs": [
+        "EVID-OBS-03-SCORE",
+        "EVID-OBS-03-BEHAVIOR-PROOF",
+        "EVID-OBS-09-SCORE",
+        "EVID-OBS-09-BEHAVIOR-PROOF"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Different conditions; deterministic source-fixture proof only; no production execution."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "selected-edits.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-006",
+      "statement": "Unevaluable truncated responses remain UNKNOWN for semantic quality.",
+      "evidence_refs": [
+        "EVID-OBS-01-RESPONSE",
+        "EVID-OBS-04-RESPONSE",
+        "EVID-SEP-MATRIX"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Original INVALID_OUTPUT labels preserved privately; UNKNOWN is not a changed historical score."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "selected-edits.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-007",
+      "statement": "Constructed comment/removal controls expose a selected text-validator false rejection while complete migration remains unfinished.",
+      "evidence_refs": [
+        "EVID-SELECTED-CONTROLS",
+        "EVID-ARTICLE-APPENDIX"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Researcher-constructed edits; local tested behavior only, not a model output or false-rejection rate."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-008",
+      "statement": "An auditor-created branch mutant passes the historical checked inputs and returns zero rather than two rows on a later second-input challenge.",
+      "evidence_refs": [
+        "EVID-SELECTED-CONTROLS",
+        "EVID-ARTICLE-APPENDIX"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Constructed coverage counterexample; original oracle/scores unchanged, no model prevalence estimate."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-009",
+      "statement": "v1.25 reviews all 585 selected differing fields, with zero unreviewed fields and 152 bounded assessment units over a separate 152-ID join.",
+      "evidence_refs": [
+        "EVID-RECON-v1.25"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Full historical adjudication false; counts are not model samples, independent defects or consensus."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "reconciliation-coverage.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-010",
+      "statement": "The final v1.25 increment contains 32 related assessment units, reuses 89 earlier control groups and adds zero model observations.",
+      "evidence_refs": [
+        "EVID-RECON-v1.25"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Assessment units and exposed control groups are different units; no new experiment."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-011",
+      "statement": "Current inspected Benchmark V2 execution gates disable real execution and grant zero operational attempts/GPU seconds.",
+      "evidence_refs": [
+        "EVID-STATE",
+        "EVID-V2-AUTH",
+        "EVID-V2-LOCK",
+        "EVID-V2-IMPLEMENTATION"
+      ],
+      "evidence_type": "current authorization state",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Point-in-time local configuration check; no real execution or global resource containment demonstrated."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-012",
+      "statement": "The original selected evidence does not establish a global model ranking, causal prompt effect or matched cost savings.",
+      "evidence_refs": [
+        "EVID-SEP-MATRIX",
+        "EVID-OCT-PROTOCOL"
+      ],
+      "evidence_type": "derived methodological assessment",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Methodological inference from heterogeneous selected designs, not a new empirical result."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-013",
+      "statement": "The newly invented demonstration illustrates three evaluation boundaries without reproducing a historical experiment.",
+      "evidence_refs": [
+        "PUBLIC-DEMO"
+      ],
+      "evidence_type": "new invented demonstration",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED",
+      "limitations": [
+        "Concept demonstration only; new fixed Python examples."
+      ],
+      "public_evidence_available": true,
+      "public_representation_refs": [
+        "../reproducibility/boundary_demo.py",
+        "../reproducibility/expected.json"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-014",
+      "statement": "Aggregate replay checks the nine released edit records and three coverage checkpoints.",
+      "evidence_refs": [
+        "PUBLIC-CHECK"
+      ],
+      "evidence_type": "new derived validation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED",
+      "limitations": [
+        "Verifies projection consistency, not historical source truth."
+      ],
+      "public_evidence_available": true,
+      "public_representation_refs": [
+        "../reproducibility/check.py",
+        "../reproducibility/expected.json"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-015",
+      "statement": "The model that scores best here is a generally reliable autonomous engineer.",
+      "evidence_refs": [
+        "EVID-SEP-MATRIX"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "INSUFFICIENT_EVIDENCE",
+      "limitations": [
+        "Not proposed for publication as a finding; no representative sample or global metric."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "EXCLUDED_STATEMENT"
+    },
+    {
+      "claim_id": "CLM-016",
+      "statement": "The current selected differing-field ledger contains 595 rows.",
+      "evidence_refs": [
+        "EVID-EARLY-ARTICLE",
+        "EVID-RECON-v1.25"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "CONTRADICTED",
+      "limitations": [
+        "Earlier draft wording conflicts with the 585-row current replay; exclude and explicitly correct if that draft is reused."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "EXCLUDED_STATEMENT"
+    },
+    {
+      "claim_id": "CLM-017",
+      "statement": "This research demonstrates measured cost savings in production.",
+      "evidence_refs": [
+        "EVID-EARLY-NARRATIVE"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "INSUFFICIENT_EVIDENCE",
+      "limitations": [
+        "No matched cost/productivity outcome; production unobserved."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "EXCLUDED_STATEMENT"
+    },
+    {
+      "claim_id": "CLM-018",
+      "statement": "Future RAG and autonomous-system studies are completed results.",
+      "evidence_refs": [
+        "EVID-STATE"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "OUT_OF_SCOPE",
+      "limitations": [
+        "Future portfolio topics only."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "EXCLUDED_STATEMENT"
+    },
+    {
+      "claim_id": "CLM-019",
+      "statement": "The selected edit records use output cap4096, seed926061, temperature0.1, top_p0.95, top_k40 and repeat_penalty1.0, with context16384 or32768.",
+      "evidence_refs": [
+        "EVID-SEP-MATRIX",
+        "EVID-OBS-01-REQUEST",
+        "EVID-OBS-02-REQUEST",
+        "EVID-OBS-03-REQUEST",
+        "EVID-OBS-04-REQUEST",
+        "EVID-OBS-05-REQUEST",
+        "EVID-OBS-06-REQUEST",
+        "EVID-OBS-07-REQUEST",
+        "EVID-OBS-08-REQUEST",
+        "EVID-OBS-09-REQUEST"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED",
+      "limitations": [
+        "Exact recorded per-request conditions; omitted think remains NOT RECORDED; two rescue rows explicitly set false."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "selected-edits.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-020",
+      "statement": "Historical September records identify RTX3090 24GB, driver616.92 and Ollama0.34.3.",
+      "evidence_refs": [
+        "EVID-SEP-REPORT"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED",
+      "limitations": [
+        "Historical stored environment, not a current machine query or universal hardware requirement."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-021",
+      "statement": "The October protocol records Ollama0.35.0/driver617.14,480-second requests,60-second recovery,80-attempt cap and no automatic retries.",
+      "evidence_refs": [
+        "EVID-OCT-PROTOCOL"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED",
+      "limitations": [
+        "Historical protocol/deviation records, not current authorization, full enforcement proof or physical resource containment."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-022",
+      "statement": "The later validator audit corpus contains76 researcher-constructed edits, with zero model inference for that audit.",
+      "evidence_refs": [
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-SELECTED-CONTROLS"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Corpus provenance is distinct from actual October model-output strata; no population failure-rate claim."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-023",
+      "statement": "Three authored September clean controls were excluded after review.",
+      "evidence_refs": [
+        "EVID-SEP-MATRIX",
+        "EVID-EARLY-NARRATIVE"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Five controls were verified; no security-detection rate or model failure denominator is released."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-024",
+      "statement": "Separate reviewer authorship is qualified by shared model-family reviews and possible prior exposure.",
+      "evidence_refs": [
+        "EVID-ARTICLE-1",
+        "EVID-ARTICLE-APPENDIX"
+      ],
+      "evidence_type": "review methodology",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Not proven blindness or independent statistical replication."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-025",
+      "statement": "A complete later-format historical scorer, full F migration scoring and selected rescue-vector details are not recovered in inspected records.",
+      "evidence_refs": [
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-SEP-MATRIX"
+      ],
+      "evidence_type": "evidence accessibility",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Bounded source search; not proof no external copy exists."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-026",
+      "statement": "Full historical adjudication remains incomplete at every released coverage checkpoint.",
+      "evidence_refs": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED",
+      "limitations": [
+        "Selected-ledger review completion must not be substituted for full historical adjudication."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [
+        "reconciliation-coverage.csv"
+      ],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-027",
+      "statement": "The historical validator appendix internally labeled Article1 describes v1.2 coverage of 32 bounded outcomes and 397 unreviewed selected fields.",
+      "evidence_refs": [
+        "EVID-ARTICLE-APPENDIX",
+        "EVID-ORIGINAL-CONTEXT"
+      ],
+      "evidence_type": "historical observation",
+      "source_revision": "hash-pinned private source identities in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Retained historical checkpoint, not current v1.25 totals."
+      ],
+      "public_evidence_available": false,
+      "public_representation_refs": [],
+      "correction_history": [],
+      "inclusion": "QUALIFIED_RESULT"
+    },
+    {
+      "claim_id": "CLM-028",
+      "statement": "The public LinkedIn articles explicitly identify Parts 1, 2 and 3, their titles and author. Published Part 3 covers task-level routing and announces the validator topic as Part 4; historical ARTICLE_1 file labels are not current series numbering.",
+      "evidence_refs": [
+        "EVID-SERIES-3",
+        "EVID-ARTICLE-1",
+        "EVID-SEP-MATRIX",
+        "EVID-LINKEDIN-PART-1",
+        "EVID-LINKEDIN-PART-2",
+        "EVID-LINKEDIN-PART-3"
+      ],
+      "evidence_type": "article availability",
+      "source_revision": "Public LinkedIn metadata observed 9 October 2026; historical draft identity retained in provenance.json",
+      "assessment": "SUPPORTED_WITH_QUALIFICATION",
+      "limitations": [
+        "Publication dates are those displayed by LinkedIn; no repository release date is inferred.",
+        "Part 4 title is verified as a teaser, not a published final article.",
+        "External link verification does not reproduce experiments or establish final article-body identity with a private draft.",
+        "Part 1's prospective roadmap differs from the later published order and is retained as history.",
+        "No complete article body or article figures are included."
+      ],
+      "public_evidence_available": true,
+      "public_representation_refs": [],
+      "correction_history": [
+        {
+          "revision": "r2",
+          "previous": "A distinct Article3 draft was not located in the earlier bounded repository search.",
+          "correction": "A separate Part 3 package was located via the article chat; prior search scope was incomplete. Do not conflate the historical Article1 artifact label with actual Part 1."
+        },
+        {
+          "revision": "r3",
+          "previous": "Part 1/2 final titles and all external publication URLs were unverified in r2.",
+          "correction": "The owner supplied three URLs. Public browser lookup verified their titles, author, displayed dates and explicit Parts 1/2/3 markers. Part 1's early roadmap is superseded by the later published Part 3 order, without altering that history."
+        }
+      ],
+      "inclusion": "QUALIFIED_RESULT"
+    }
+  ],
+  "note": "Rejected statements are retained as an explicit exclusion/correction record, not asserted results."
+}

@@ -1,0 +1,41 @@
+{
+  "identity_scope": "Historical recorded Ollama manifest identities; no current vendor certification or installation claim.",
+  "models": [
+    {
+      "model": "gemma4:12b",
+      "digest": "4eb23ef187e2c5462566d6a1d3bbbc2f1346d0b4327cbb66d58fffbcc9b2b05c",
+      "quantization": "Q4_K_M",
+      "format": "gguf"
+    },
+    {
+      "model": "gemma4:31b",
+      "digest": "6316f0629137b426c9d9b853ffc4c8209589f30ee39aebede6285096c0ff47e7",
+      "quantization": "Q4_K_M",
+      "format": "gguf"
+    },
+    {
+      "model": "glm-4.7-flash:q4_K_M",
+      "digest": "4475827791a269b02c8ec49b1c3bc1abb5846bacf3fae015b75d33986322d8f6",
+      "quantization": "Q4_K_M",
+      "format": "gguf"
+    },
+    {
+      "model": "granite4.2:30b",
+      "digest": "be22829aa92aad40153c3b2cfd628269ac9281967e74c44d96750568a5af8ed4",
+      "quantization": "Q4_K_M",
+      "format": "gguf"
+    },
+    {
+      "model": "qwen3.8:27b",
+      "digest": "22130167c4c20e20c7b71454612966ca8e8171e9b3cc8ab6ce8aa6cbfec79643",
+      "quantization": "Q4_K_M",
+      "format": "gguf"
+    },
+    {
+      "model": "qwen3-coder:30b",
+      "digest": "06c1097efce0431c2045fe7b2e5108366e43bee1b4603a7aded8f21689e90bca",
+      "quantization": "Q4_K_M",
+      "format": "gguf"
+    }
+  ]
+}

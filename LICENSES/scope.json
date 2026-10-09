@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "copyright_attribution": "Copyright © 2026 Eran Baruch (GitHub: eranb007)",
+  "scope": "Only controlled rights in the explicitly listed public representations, including eligible expression and controlled database rights if any; underlying restricted sources and third-party rights excluded",
+  "scope_file": "CC0-1.0 for eligible metadata and controlled database rights; grant descriptions do not expand the rights granted in other files",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "CITATION.cff",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "LICENSES/CC-BY-4.0.md",
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/CC0-1.0.md",
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/DATA-TERMS.md",
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/MIT.txt",
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/README.md",
+      "license_scope": "LICENSE-NOTICE"
+    },
+    {
+      "path": "LICENSES/scope.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "docs/publication-manifest.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "docs/publication-policy.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/CHANGELOG.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/articles/README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/experiments.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/manifest.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/reconciliation-coverage.png",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/figures/reconciliation-coverage.svg",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/limitations.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/methodology.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/boundary_demo.py",
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/check.py",
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/expected.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/plot_coverage.py",
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/requirements-figures.txt",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/test_validation.py",
+      "license_scope": "MIT"
+    },
+    {
+      "path": "studies/local-llm-reliability/research-questions.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/claims.json",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/models.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/provenance.json",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/reconciliation-coverage.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/selected-edits.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/roadmap.md",
+      "license_scope": "CC-BY-4.0"
+    }
+  ],
+  "rights_holder": "Eran Baruch (GitHub: eranb007), only to the extent of rights he controls",
+  "ai_assistance": "Research conducted under Eran Baruch’s direction, with AI-assisted research, analysis, code generation, documentation and review. This does not assert copyright in every AI output or clear third-party rights.",
+  "excluded_material": [
+    "Restricted primary evidence, raw prompts/responses, evaluation answers, reviewer bodies and private application materials are outside every grant.",
+    "Third-party code, software, model assets, fonts and other rights are not relicensed by this scope.",
+    "Externally sourced article titles/series labels in articles/README.md and results/provenance.json are bibliographic identification, excluded from the grant to the extent third-party rights apply; no article-body or image rights are granted.",
+    "Uncertain rights are excluded; a file-level license covers only eligible original expression or data rights controlled by the licensor."
+  ]
+}

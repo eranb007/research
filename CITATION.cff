@@ -1,0 +1,22 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Cite the exact version and repository commit used. This preview does not establish original experiment reproduction.",
+  "title": "Applied AI Research: Local LLM Reliability Research Preview",
+  "authors": [
+    {
+      "family-names": "Baruch",
+      "alias": "eranb007",
+      "website": "https://github.com/eranb007",
+      "given-names": "Eran"
+    }
+  ],
+  "version": "0.1.0-research-preview",
+  "repository-code": "https://github.com/eranb007/research",
+  "abstract": "Descriptive local-model engineering observations, evaluation boundaries and reproducibility limits, with restricted primary evidence.",
+  "keywords": [
+    "local language models",
+    "software engineering",
+    "evaluation",
+    "reproducibility"
+  ]
+}

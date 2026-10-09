@@ -1,0 +1,4 @@
+checkpoint,source_ids,selected_fields,reviewed_fields,unreviewed_fields,bounded_assessment_units,full_historical_adjudication_complete,new_model_observations,evidence_id
+v1.23,152,585,516,69,115,false,0,EVID-RECON-v1.23
+v1.24,152,585,527,58,120,false,0,EVID-RECON-v1.24
+v1.25,152,585,585,0,152,false,0,EVID-RECON-v1.25

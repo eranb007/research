@@ -1,0 +1,10 @@
+observation_id,model,condition,context_tokens,output_cap,temperature,seed,top_p,top_k,repeat_penalty,think,delivery,required_targets,proposed,admitted,rejected,exact_reference_matches,application_writes,behavioral_evidence,evidence_id
+OBS-01,gemma4:12b,main guarded,32768,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,no evaluable delivery,5,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,NOT RECORDED,not independently certified for all targets,EVID-OBS-01
+OBS-02,gemma4:31b,main guarded,16384,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,evaluable proposal,5,5,4,1,4,0,not independently certified for all targets,EVID-OBS-02
+OBS-03,glm-4.7-flash:q4_K_M,main guarded,32768,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,evaluable proposal,5,5,5,0,4,0,selected result-shape failure in supplied fixture,EVID-OBS-03
+OBS-04,granite4.2:30b,main guarded,16384,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,no evaluable delivery,5,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,NOT RECORDED,not independently certified for all targets,EVID-OBS-04
+OBS-05,qwen3.8:27b,main guarded,32768,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,evaluable proposal,5,5,5,0,5,0,not independently certified for all targets,EVID-OBS-05
+OBS-06,qwen3-coder:30b,main guarded,32768,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,evaluable proposal,5,5,5,0,5,0,not independently certified for all targets,EVID-OBS-06
+OBS-07,gemma4:31b,paired prompt; both constrained,16384,4096,0.1,926061,0.95,40,1.0,NOT RECORDED,evaluable proposal,5,5,0,5,0,0,not independently certified for all targets,EVID-OBS-07
+OBS-08,gemma4:12b,separate reasoning-off rescue,32768,4096,0.1,926061,0.95,40,1.0,false,evaluable proposal,5,5,0,5,0,0,not independently certified for all targets,EVID-OBS-08
+OBS-09,granite4.2:30b,separate reasoning-off rescue,16384,4096,0.1,926061,0.95,40,1.0,false,evaluable proposal,5,5,5,0,4,0,selected result-shape failure in supplied fixture,EVID-OBS-09

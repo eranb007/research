@@ -1,0 +1,30 @@
+{
+  "figures": [
+    {
+      "figure_id": "FIG-001",
+      "files": [
+        "reconciliation-coverage.svg",
+        "reconciliation-coverage.png"
+      ],
+      "source_dataset": "../results/reconciliation-coverage.csv",
+      "generator": "../reproducibility/plot_coverage.py",
+      "evidence_ids": [
+        "EVID-RECON-v1.23",
+        "EVID-RECON-v1.24",
+        "EVID-RECON-v1.25"
+      ],
+      "unit": "selected disagreement fields",
+      "denominator_per_checkpoint": 585,
+      "transformation": "reviewed_fields = selected_fields - unreviewed_fields",
+      "conditions": "frozen v1.23 ledger plus v1.24 and v1.25 disposition deltas",
+      "limits": [
+        "Not model performance",
+        "Not 585 independent errors",
+        "Not complete historical adjudication",
+        "Public aggregates do not expose primary review bodies"
+      ],
+      "rights": "CC-BY-4.0 for eligible original chart expression; the separately listed coverage CSV uses CC0-1.0; restricted primary evidence excluded",
+      "disclosure": "PUBLIC_PAYLOAD"
+    }
+  ]
+}
