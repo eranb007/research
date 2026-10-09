@@ -1,0 +1,377 @@
+{
+  "sources": [
+    {
+      "evidence_id": "EVID-SEP-MATRIX",
+      "sha256": "d7974953ac8972284ece26630bd51bf012882cd929c13d2dee8d4684277db260",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-STATE",
+      "sha256": "c20915ad3a98bbaa31c7a6ad58a8ab0fda53abac116cd8a20bd7bd3ceffef995",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-ARTICLE-1",
+      "sha256": "011fb0bb1af5fcfd8cb14f2d3617e78ee01b800dd813467bfc2e4dc4248680ea",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-ARTICLE-APPENDIX",
+      "sha256": "3189652866f9a57676c37e4638e6b1eba82027d093d291e03296f2eb3d6b5136",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-ORIGINAL-CONTEXT",
+      "sha256": "4d5ce51527e08fff29184681d41bc70990c2d06debd4006e4e17464557f1a716",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-SELECTED-CONTROLS",
+      "sha256": "71aefb7700adf26d039436ae96e0fc6717469170e7d309046d7e5828ba3b5c03",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OCT-PROTOCOL",
+      "sha256": "ee74feb98cf06be973956a2a41b9ba12afecd5ef5283f2c30d32a0c26d5b4c78",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-EARLY-NARRATIVE",
+      "sha256": "cdb5de40163fe0ceb53996cb3989c2ef5fe4e773ec2bad447fe312e3c8e13b6d",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-EARLY-ARTICLE",
+      "sha256": "44b7e43ca8c84962a785f2d52d37e6299c5710607d2269554f1bcd52e3b2d95f",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-ARTICLE-SERIES",
+      "sha256": "b7b8255bc8f6a83b73650a75a8a7b2e98cd8fe7f19ccfcd9b7f596d60554e004",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-SEP-REPORT",
+      "sha256": "bddd5618d3351ed8e5230bf205267b23f5bb54f47228dd8584163f0ae362c756",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-V2-AUTH",
+      "sha256": "7688cced488eb59ae877b8ca7c3675297fde46f39373e8d705b17ca437ecdf79",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-V2-LOCK",
+      "sha256": "26d9ac2d1177552553a5a790d17d933eb0c176fea8731abcff2053ea7d266be1",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-V2-IMPLEMENTATION",
+      "sha256": "9866fc06dbca5560353552b87335d29b3fed4b9bcb0364c751a5f201d0d74fc7",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-RECON-v1.23",
+      "sha256": "ebdf1ec0774894b1d91db62da6f6b55b5202a2d0b1ce3a0dbd925145640b0673",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-RECON-v1.24",
+      "sha256": "e3cbfa31175ce01d1053e0044818faa93c42e129c3c72c216159ac7aef80af4b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-RECON-v1.25",
+      "sha256": "b3472e5881387cb473afe07b6eeef62e45b1b08f0ca7559de5284bd036ef0a81",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-01-REQUEST",
+      "sha256": "b8a95fea665b5662fcbcd98069f952e416c24052c0920057eec6440955acd9f5",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-01-RESPONSE",
+      "sha256": "ec5f605c205d144cde2af8a86e4ae00978a766f1f9c5bc4d7aa25e30dad054f7",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-01-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-02-REQUEST",
+      "sha256": "67db826937e1b08e3b700f3622077c96f52ea188990fde7fb6bd8598d0854806",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-02-RESPONSE",
+      "sha256": "eec1f39d751e5c760963d64bd7750b81060ec3a8c64a689ba14538fdd28bcb09",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-02-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-03-REQUEST",
+      "sha256": "cde2a003638ea1d07604fd3b1bda527666b672c00b85de5314bddb6186a026b5",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-03-RESPONSE",
+      "sha256": "b741034036ac4b80a9ac82ae881b188255df5e625d3d24c196961469057b01fc",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-03-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-03-BEHAVIOR-PROOF",
+      "sha256": "9d51922ac3bedbc9b9710a5e0bc53af3833391b4103fe7fd5986c124f3d4b11d",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-04-REQUEST",
+      "sha256": "eceb39c4dad4e742daa8e918ebf36724bf9b72b7d58931fce9f42259bcb73e37",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-04-RESPONSE",
+      "sha256": "b263936438c53bae320243a04fe777577b6843ddb80b559be8594e511d6efd3b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-04-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-05-REQUEST",
+      "sha256": "3b96fa94117113fe4f54eb55b95de087474478a1cc123a3eebf78d6697f025fa",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-05-RESPONSE",
+      "sha256": "0cfe27fd7be45e556ff6961f8259883da18e0ea0413731531b72a4f19399aeac",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-05-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-06-REQUEST",
+      "sha256": "9f6888fc8be1b1fa44789a3cc8c900b49262a8bff548c354830c2a41040f5283",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-06-RESPONSE",
+      "sha256": "c6a1ee647016d6ef7284759e049ee1877e2f2639ad950a5fcb04b486ff98e13e",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-06-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-07-REQUEST",
+      "sha256": "a05cc9334ab51c912b2b632dadffaa0b6bd6dfcc79ad35a8676251e1a1217d27",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-07-RESPONSE",
+      "sha256": "76fa7ed6f7da6667d16ef831b8317c7d230ce7aa0f53648d3f42a3a4c530b83d",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-07-SCORE",
+      "sha256": "61856ff33ea943cf7b6c770e0827405b80e12490f095b1ee12b5147c7c7cc46b",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-08-REQUEST",
+      "sha256": "c79198ef02e63e06d67c2caa5b7312028b91166f718b5fdca79947d67ddddf9e",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-08-RESPONSE",
+      "sha256": "1920319a82e7705a7f0d9b568020b91a8066e74efb3e7ae92943af0515d02f7c",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-08-SCORE",
+      "sha256": "afa48409098eee417b520510de23960e9b03a4154c298bbb0e332a4160ca3f8a",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-09-REQUEST",
+      "sha256": "cadcbe26a4a0404df6398a1d5b6cab2629ccf19b04ce90c3f379c6ae78458c53",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-09-RESPONSE",
+      "sha256": "26bdb002be547ecd95fd2bb3702a19df11c5470ce8d34f3905340b1bc342e57c",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-09-SCORE",
+      "sha256": "afa48409098eee417b520510de23960e9b03a4154c298bbb0e332a4160ca3f8a",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "EVID-OBS-09-BEHAVIOR-PROOF",
+      "sha256": "1251a0ca3587384e1e9808607d6b321e212e05af98f011d12b5507b2323dc331",
+      "source_revision": "SHA-256 identifies exact privately retained source bytes",
+      "public_source_available": false,
+      "representation": "Selected derived aggregate or narrative only; underlying content PRIVATE_ONLY"
+    },
+    {
+      "evidence_id": "PUBLIC-DEMO",
+      "public_source_available": true,
+      "public_path": "../reproducibility/boundary_demo.py"
+    },
+    {
+      "evidence_id": "PUBLIC-CHECK",
+      "public_source_available": true,
+      "public_path": "../reproducibility/check.py"
+    },
+    {
+      "evidence_id": "EVID-SERIES-3",
+      "sha256": "7a817523b6e71282dabfe08ef05adc9e91849c3d0d8d5dd67760522300e2d772",
+      "source_revision": "Part 3 v3.4.5, 8 October 2026; title/series/teaser only",
+      "public_source_available": false,
+      "representation": "Derived series register only; article text and figures not distributed"
+    },
+    {
+      "evidence_id": "EVID-LINKEDIN-PART-1",
+      "public_source_available": true,
+      "external_url": "https://www.linkedin.com/pulse/six-local-ai-models-one-gpu-how-much-could-i-actually-eran-baruch-jjuyf",
+      "title": "Six Local AI Models. One GPU. How Much Could I Actually Trust?",
+      "author": "Eran Baruch",
+      "displayed_publication_date": "2026-10-03",
+      "part": 1,
+      "source_revision": "Public page metadata observed 9 October 2026; live content may change",
+      "representation": "External metadata citation only; no article text or images copied"
+    },
+    {
+      "evidence_id": "EVID-LINKEDIN-PART-2",
+      "public_source_available": true,
+      "external_url": "https://www.linkedin.com/pulse/six-local-ai-models-one-gpu-number-wasnt-enough-eran-baruch-hbnkf",
+      "title": "Six Local AI Models. One GPU. One Number Wasn't Enough.",
+      "author": "Eran Baruch",
+      "displayed_publication_date": "2026-10-05",
+      "part": 2,
+      "source_revision": "Public page metadata observed 9 October 2026; live content may change",
+      "representation": "External metadata citation only; no article text or images copied"
+    },
+    {
+      "evidence_id": "EVID-LINKEDIN-PART-3",
+      "public_source_available": true,
+      "external_url": "https://www.linkedin.com/pulse/i-tested-six-local-ai-models-most-useful-result-knowing-eran-baruch-nngkf",
+      "title": "I Tested Six Local AI Models. The Most Useful Result Was Knowing When Not to Use Them.",
+      "author": "Eran Baruch",
+      "displayed_publication_date": "2026-10-09",
+      "part": 3,
+      "source_revision": "Public page metadata observed 9 October 2026; live content may change",
+      "representation": "External metadata citation only; no article text or images copied"
+    }
+  ],
+  "access_note": "Hashes establish identity, not truth, public availability or disclosure approval. No private paths are distributed."
+}

@@ -1,0 +1,19 @@
+{
+  "check": {
+    "coverage_checkpoints": 3,
+    "final_selected_fields": 585,
+    "final_unreviewed_selected_fields": 0,
+    "historical_experiment_reproduced": false,
+    "historical_model_tags": 6,
+    "selected_edit_records": 9,
+    "status": "PASS",
+    "unevaluable_records": 2
+  },
+  "boundary_demo": {
+    "counterpart_controls_present": true,
+    "historical_results_reproduced": false,
+    "invented_boundary_examples": 3,
+    "model_observations": 0,
+    "status": "PASS"
+  }
+}
