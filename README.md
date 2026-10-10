@@ -6,6 +6,14 @@ Under what conditions can language models take meaningful software-engineering r
 
 [Local LLM reliability in software-engineering workflows](studies/local-llm-reliability/README.md) is the first study. It draws on project-derived fixtures, repository excerpts and deterministic audits from a private development environment. This research preview presents selected historical observations, methods, explicit limits and offline aggregate checks. Primary experimental artifacts remain restricted.
 
+## Archived release and citation
+
+The first research preview is permanently archived at Zenodo: **[version DOI 10.5281/zenodo.23277567](https://doi.org/10.5281/zenodo.23277567)**. To cite this exact release, use the version DOI. The [concept DOI 10.5281/zenodo.23277566](https://doi.org/10.5281/zenodo.23277566) identifies the series of archived versions.
+
+**Research author:** [Eran Baruch (ORCID: 0009-0005-6098-6283)](https://orcid.org/0009-0005-6098-6283). The archived snapshot corresponds to the [v0.1.0 GitHub release](https://github.com/eranb007/research/releases/tag/v0.1.0-research-preview), commit [`97ff53dcd75a`](https://github.com/eranb007/research/commit/97ff53dcd75aca2d81cc538652e2d42a2044a50c).
+
+The [publication manifest](docs/publication-manifest.json) refers to the frozen v0.1.0 release payload. Subsequent citation-only updates on `main` do not alter that archived payload or its recorded hashes. Original experimental inference has not been independently reproduced.
+
 ## Findings within the available evidence
 
 - **Admission did not establish correctness.** In the selected five-target editing task, GLM's main guarded proposal and Granite's reasoning-off rescue each had five admissions but four exact reference matches. Their selected assignments edits had result-shape failures: reading a promise before awaiting it, or returning an envelope instead of its array. Other selected proposals matched all five reference files; those matches do not certify behavior beyond the supplied task and checks. [Records and qualifications](studies/local-llm-reliability/results/README.md) (CLM-003, CLM-005).

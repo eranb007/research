@@ -1,13 +1,14 @@
 {
   "cff-version": "1.2.0",
-  "message": "Cite the exact version and repository commit used. This preview does not establish original experiment reproduction.",
+  "message": "Cite the frozen research preview using the version-specific Zenodo DOI. Original experiment inference has not been independently reproduced.",
   "title": "Applied AI Research: Local LLM Reliability Research Preview",
   "authors": [
     {
       "family-names": "Baruch",
       "alias": "eranb007",
       "website": "https://github.com/eranb007",
-      "given-names": "Eran"
+      "given-names": "Eran",
+      "orcid": "https://orcid.org/0009-0005-6098-6283"
     }
   ],
   "version": "0.1.0-research-preview",
@@ -18,5 +19,20 @@
     "software engineering",
     "evaluation",
     "reproducibility"
+  ],
+  "doi": "10.5281/zenodo.23277567",
+  "date-released": "2026-10-09",
+  "commit": "97ff53dcd75aca2d81cc538652e2d42a2044a50c",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.23277567",
+      "description": "Version-specific DOI for v0.1.0-research-preview"
+    },
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.23277566",
+      "description": "Concept DOI for all archived versions of this research"
+    }
   ]
 }
