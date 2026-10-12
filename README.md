@@ -1,10 +1,10 @@
 # Applied AI research
 
-An independent personal applied AI research portfolio maintained by [Eran Baruch (GitHub: eranb007)](https://github.com/eranb007). The research was conducted under his direction, with AI-assisted research, analysis, code generation, documentation and review.
+An independent, multi-study applied AI research portfolio maintained by [Eran Baruch (GitHub: eranb007)](https://github.com/eranb007). The research was conducted under his direction, with AI-assisted research, analysis, code generation, documentation and review.
 
 Under what conditions can language models take meaningful software-engineering responsibilities, and what evidence is needed before people rely on their outputs?
 
-[Local LLM reliability in software-engineering workflows](studies/local-llm-reliability/README.md) is the first study. It draws on project-derived fixtures, repository excerpts and deterministic audits from a private development environment. This research preview presents selected historical observations, methods, explicit limits and offline aggregate checks. Primary experimental artifacts remain restricted.
+The repository hosts independent studies that share research infrastructure while keeping hypotheses, evidence and conclusions study-scoped. [Local LLM reliability in software-engineering workflows](studies/local-llm-reliability/README.md) is the first published study. [Autonomous agent organizational behavior](studies/autonomous-agent-organizational-behavior/README.md) is a planned study currently in protocol development; it has no experimental results yet. It draws on project-derived fixtures, repository excerpts and deterministic audits from a private development environment. This research preview presents selected historical observations, methods, explicit limits and offline aggregate checks. Primary experimental artifacts remain restricted.
 
 ## Archived release and citation
 
@@ -24,6 +24,12 @@ The [publication manifest](docs/publication-manifest.json) refers to the frozen 
 At reconciliation v1.25, all 585 selected differing fields have bounded dispositions, with zero unreviewed selected fields and 152 bounded assessment units. This is curation progress, not 585 defects, independent samples or complete historical adjudication. Small, selected and correlated observations, unequal settings and incomplete scorer evidence prevent universal model rankings, causal prompt claims, production guarantees or measured savings.
 
 Start with the [qualified results](studies/local-llm-reliability/results/README.md), [methodology](studies/local-llm-reliability/methodology.md), [limitations](studies/local-llm-reliability/limitations.md) and [article register](studies/local-llm-reliability/articles/README.md).
+
+## Repository organization
+
+- [Studies](studies/README.md) contain independent research programs.
+- [Shared research kit](shared/README.md) contains reusable methodology and research conventions.
+- Publication-level artifacts under `docs/` continue to describe their stated release scope; the archived v0.1.0 manifest is not rewritten by this reorganization.
 
 ## Research principles
 
