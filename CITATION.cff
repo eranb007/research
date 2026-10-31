@@ -1,7 +1,7 @@
 {
   "cff-version": "1.2.0",
-  "message": "Cite the frozen research preview using the version-specific Zenodo DOI. Original experiment inference has not been independently reproduced.",
-  "title": "Applied AI Research: Local LLM Reliability Research Preview",
+  "message": "Cite the completed series-closure archive using version DOI 10.5281/zenodo.23846229. The v0.1.0 research preview remains separately citable. Original model inference was not independently replicated.",
+  "title": "Applied AI Research: Local LLM Reliability and Evaluator Evidence",
   "authors": [
     {
       "family-names": "Baruch",
@@ -11,28 +11,30 @@
       "orcid": "https://orcid.org/0009-0005-6098-6283"
     }
   ],
-  "version": "0.1.0-research-preview",
+  "version": "0.2.0-series-closure",
   "repository-code": "https://github.com/eranb007/research",
-  "abstract": "Descriptive local-model engineering observations, evaluation boundaries and reproducibility limits, with restricted primary evidence.",
+  "abstract": "Completed four-part applied AI research series with qualified V1 observations and corrections and a separate bounded seven-bundle prospective comparison (168 planned units). Public derived counts are reproducible within their scope; original inference and private evidence are not publicly reproducible.",
   "keywords": [
     "local language models",
     "software engineering",
-    "evaluation",
-    "reproducibility"
+    "LLM evaluation",
+    "evaluator reliability",
+    "reproducibility",
+    "AI-assisted research"
   ],
-  "doi": "10.5281/zenodo.23277567",
-  "date-released": "2026-10-09",
-  "commit": "97ff53dcd75aca2d81cc538652e2d42a2044a50c",
+  "doi": "10.5281/zenodo.23846229",
+  "date-released": "2026-10-31",
+  "commit": "b29489e45f6597a36c7cdb4ee3d42d7fa89c80b5",
   "identifiers": [
     {
       "type": "doi",
-      "value": "10.5281/zenodo.23277567",
-      "description": "Version-specific DOI for v0.1.0-research-preview"
+      "value": "10.5281/zenodo.23846229",
+      "description": "Version-specific DOI for v0.2.0-series-closure"
     },
     {
       "type": "doi",
       "value": "10.5281/zenodo.23277566",
-      "description": "Concept DOI for all archived versions of this research"
+      "description": "Concept DOI for the version series"
     }
   ]
 }
