@@ -21,3 +21,8 @@ The V1 correction record qualifies overconfident source-availability and proof-r
 ## Series-closure companion update — separate release decisions
 
 The final companion distinguishes V1 historical documentary results, constructed controls and the separately executed final comparison. It discloses all denominators, B missingness, AI/nonblind review and the conditional B4-M6 interpretation. Reproducibility covers published derived counts, not public re-scoring or independent inference replication. The article file is the Part 4 editorial source; its external publication is a separate owner decision. Phase A corrections are published on GitHub at the [verified V1 errata URL](https://github.com/eranb007/research/blob/main/studies/local-llm-reliability/corrections/V1_ERRATA.md); LinkedIn notices remain separate and uninserted. Phase B publication and the exact final Part 4 text require separate owner approval. A final GitHub release and optional Zenodo version require separate approval, a final exact manifest and new citation metadata; do not overwrite the old release, DOI or content manifest.
+
+
+## Subsequent LinkedIn publication record — 31 October 2026
+
+The author reported publication of [Part 4: **Who Validates the AI Validator?**](https://www.linkedin.com/pulse/who-validates-ai-validator-eran-baruch-zexnf) on LinkedIn on 31 October 2026. Earlier references here to Part 4 being on HOLD reflect the prepublication decision state and are superseded as a status report. This record does not independently verify the exact article-body bytes, certify prior private approval gates, insert correction notices into Parts 1–3 or modify the archived v0.1.0 release or DOI.

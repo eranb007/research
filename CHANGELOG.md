@@ -17,3 +17,8 @@ Add dated errata, all 28 claim dispositions and all 42 missing-source entries; c
 ## Final research companion and Part 4 editorial source
 
 Add a separately identified prospective study companion and sanitized primary counts with all 168 identities retained. Preserve 164 attempts, 163 delivered outputs, one HTTP 500, four unexecuted units, missing behavior evidence, frozen primary scores and conditional review only. Add the Part 4 editorial source, with external publication a separate owner decision. No historical release is replaced.
+
+
+## 2026-10-31 — Part 4 LinkedIn publication (author-confirmed)
+
+The author reported publishing [**Who Validates the AI Validator?**](https://www.linkedin.com/pulse/who-validates-ai-validator-eran-baruch-zexnf) as the fourth and concluding article in *Beyond the Local AI Hype*. The [article register](studies/local-llm-reliability/articles/README.md) now records its destination and date, and the current documentation distinguishes the publication report from the earlier preparatory HOLD. This is not a byte-for-byte LinkedIn article-body verification, an additional experiment, a revision to frozen scores or a change to the historical Zenodo/release manifest. LinkedIn V1 correction notices remain separate and are not presumed inserted.
