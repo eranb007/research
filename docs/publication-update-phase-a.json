@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "kind": "PROPOSED_DOCUMENTARY_UPDATE_NOT_PUBLICATION_RECEIPT",
+  "phase": "A",
+  "base_commit": "1e89331d95f242a8a35dc03486932db7d6dc54fd",
+  "preceding_phase": "unchanged baseline",
+  "historical_manifest_preserved": "docs/publication-manifest.json",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1074,
+      "sha256": "62c3ed4ba96b59e02bd64f28319d1efaed2bd4bce1847069ec9a82c1f826a491"
+    },
+    {
+      "path": "LICENSES/scope.json",
+      "bytes": 6424,
+      "sha256": "a2b39bb145a23366b70d7d06def8aee6605802c4ae6727cc6948a78eaca00fa2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7046,
+      "sha256": "b16780a04f3b99a400467ffa80f94e74dd98f5629455bd13cd1c9df6d32aaa6d"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 2897,
+      "sha256": "cf4a20b82f08b4b12a004ee5b88a6aaf038c5f3172a6c0d8d7f667dd0be7b867"
+    },
+    {
+      "path": "studies/local-llm-reliability/articles/README.md",
+      "bytes": 4353,
+      "sha256": "4f5553a164591aab1c2c64e132463c1dd6159a419d6148915d0503618a80113d"
+    },
+    {
+      "path": "studies/local-llm-reliability/CHANGELOG.md",
+      "bytes": 904,
+      "sha256": "092d362eccaf1f96aeb019d0b43be155d35b87453645e2f63b230aa6886ef733"
+    },
+    {
+      "path": "studies/local-llm-reliability/corrections/ARTICLE_CORRECTION_NOTICES.md",
+      "bytes": 2382,
+      "sha256": "4740ee0a96796f6a967d9604a9fc16d1ad52f70d40eb915631f08c2f4de4d6a4"
+    },
+    {
+      "path": "studies/local-llm-reliability/corrections/UNRECOVERED_PROVENANCE.csv",
+      "bytes": 32252,
+      "sha256": "b2f5ab542dbc7aa5255305168ffbd986baa495267369d984602c999da4c7e983"
+    },
+    {
+      "path": "studies/local-llm-reliability/corrections/V1_CLAIM_DISPOSITIONS.csv",
+      "bytes": 9631,
+      "sha256": "fe130e856074e9c13383881a6dd6c748c32abe3deb99242bbfcb9a5863a41843"
+    },
+    {
+      "path": "studies/local-llm-reliability/corrections/V1_ERRATA.md",
+      "bytes": 9068,
+      "sha256": "3c20be8c63f36471272d1496f109e84f36aff2e67b9f81685f1cabe3d5b6960b"
+    },
+    {
+      "path": "studies/local-llm-reliability/experiments.md",
+      "bytes": 3875,
+      "sha256": "1ab10b39771398a6f3ac3d6d0cecce5f5d555f3e9d935d850a81691495abf692"
+    },
+    {
+      "path": "studies/local-llm-reliability/limitations.md",
+      "bytes": 3126,
+      "sha256": "c38f60e7e175a0dfb73488abb6317cea0c9eb84dfc689a96067df6b42d03ff3b"
+    },
+    {
+      "path": "studies/local-llm-reliability/methodology.md",
+      "bytes": 4735,
+      "sha256": "8077e315b8c0b2847c376748f3d379ea834852e3fac4ad61a387e2e3ead6e94e"
+    },
+    {
+      "path": "studies/local-llm-reliability/README.md",
+      "bytes": 3489,
+      "sha256": "08414daad51d36663934e7bfcf02177ee362a7e9a2155b10345243e5093b89d5"
+    },
+    {
+      "path": "studies/local-llm-reliability/reproducibility/README.md",
+      "bytes": 3680,
+      "sha256": "74f8227f7808bf74f25a21161f3cd7e9f090016d3703becab20b84d4d9639c29"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/claims.json",
+      "bytes": 41116,
+      "sha256": "eed3670fa5bd97765534707e89342f642f7c050589cc54a1d6b2dff848608dd4"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/provenance.json",
+      "bytes": 26486,
+      "sha256": "6a65c0ee554f397fe3134ba3e15f2a0c7438c3f8fa7613dcc6902fd04bba2d6e"
+    },
+    {
+      "path": "studies/local-llm-reliability/results/README.md",
+      "bytes": 6241,
+      "sha256": "4b639cda873f5e49820567845887078b4e86e34957c9a3e3046099dc3fb38bcf"
+    }
+  ],
+  "self_hash_policy": "Excluded from own list; external private owner manifest binds this file",
+  "PUBLICATION": "HOLD",
+  "preparation_date": "2026-10-30",
+  "targeted_editorial_revision_date": "2026-10-31",
+  "publication_status": "STAGED_PROPOSAL_NOT_PUBLISHED",
+  "published_at": null,
+  "external_article_correction_status": "NOT_VERIFIED; no external article edit authorized or performed by this preparation",
+  "publication_authorization": "NOT_GRANTED"
+}

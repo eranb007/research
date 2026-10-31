@@ -1,6 +1,10 @@
+> **Staged evidence correction:** The historical documentary narratives below are retained for context and qualified by the [proposed V1 errata](../corrections/V1_ERRATA.md), the 28 claim dispositions and the 42-entry missing-source register. This proposal is not a receipt of publication or external article correction. Derived documentary agreement and invented controls do not establish recovery or replay of original requests, outputs or historical proof bodies.
+
+---
+
 # Selected results and failure modes
 
-These are historical observations projected into newly curated data. Primary requests and original metrics were checked locally. Their complete contents remain private, so public readers can verify arithmetic and consistency of the projection, not independently audit every historical response. [Claims](claims.json) record this distinction; [provenance](provenance.json) contains safe identity references.
+These are historical observations projected into newly curated data. The closure audit checked nine released editing rows against an actually recovered derived matrix. That independently checked agreement concerns derived records, not the unavailable original model responses, validator implementation or historical proof bodies. The original request, response and metrics bodies for the 42 marked provenance entries were not recovered in the bounded audit. Public readers can check this derived projection, not independently audit the original responses. [Claims](claims.json) record this distinction; [provenance](provenance.json) contains safe identity references.
 
 ## Bounded-edit observations
 
@@ -22,13 +26,13 @@ The [CSV](selected-edits.csv) includes every retained sampling option, output ca
 
 ## What the cases show
 
-**Admission can change with output form.** The Gemma31 pair recorded zero then four admitted targets. Leading whitespace caused the earlier strict rejection; a declaration outside the statement grammar caused the remaining later rejection. Both prompts were constrained and shared recorded options. Fixed order, one seed and one fixture prevent attributing the difference to the validation notice or declaring rejected text semantically incorrect.
+**Documentary account of admission and output form.** The retained records report zero then four admitted targets for the Gemma31 pair. The historical account attributes the earlier strict rejection to leading whitespace and the remaining later rejection to a declaration outside the statement grammar; the original validator/request/response bodies were not recovered for independent replay. Both prompts are recorded as constrained with shared options. Fixed order, one seed and one fixture prevent attributing the difference to the validation notice or declaring rejected text semantically incorrect.
 
-**Admission does not establish behavior.** In the GLM primary and Granite rescue records, all five proposals were admitted but only four resulting files matched references. Supplied deterministic fixture proofs identify, respectively, asynchronous property-access ordering and an envelope-versus-array result mismatch on the same selected target. These are narrow result-shape observations, with no production execution.
+**Admission does not establish behavior.** In the GLM primary and Granite rescue records, all five proposals were admitted but only four resulting files matched references. The retained matrix describes asynchronous property-access ordering and an envelope-versus-array result mismatch on the same selected target. The two cataloged historical proof bodies were not recovered; they were not independently rerun in the closure audit. These are narrow documentary descriptions, not independent behavioral verification of the unavailable historical outputs or proofs; no production execution is established by them.
 
-**Checks can reject a locally valid change.** Later researcher-constructed edit challenges included a comment quoting old source text. A text-pattern validator rejected the change; a comment-removal control changed admission without changing the tested local behavior. The complete migration was still incomplete. This is a selected rule boundary, not a measured validator false-rejection rate.
+**Reported historical text-validator boundary.** Retained historical documentation describes a researcher-constructed edit with a comment quoting old source text: it reports rejection by a text-pattern validator and a comment-removal control that changed admission without changing the tested local behavior. It also reports that the complete migration remained incomplete. The original validator/control source was not recovered or independently replayed. The separately recovered public illustrative control checks its own invented mechanism; it is neither historical proof nor a measured validator false-rejection rate.
 
-**A finite oracle can miss an untested branch.** A separately authored mutant passed historical checked inputs but failed a later second-input challenge: the fixture/reference required two rows and the mutant returned none. It was invented by an auditor, not naturally emitted by a model. Original scores and oracle remained unchanged.
+**Reported historical mutant and separate illustration.** A retained documentary account reports that an auditor-constructed mutant passed historical checked inputs and failed a later second-input challenge: the reference required two rows and the mutant returned none. The original mutant/oracle source was not recovered or independently replayed. The recovered public illustrative control demonstrates its own finite coverage gap, not a rerun of that historical mutant. These constructed examples are not naturally emitted model responses. Original scores and source identities remain unchanged.
 
 ## Reconciliation coverage
 

@@ -33,3 +33,8 @@ python -B studies/local-llm-reliability/reproducibility/plot_coverage.py
 ~~~
 
 The plotter validates the coverage CSV before writing the two figure exports. Fonts/platforms can change rendering and output bytes. It uses already available matplotlib 3.9.2; no third-party source, font binary or branding asset is distributed.
+
+
+## Later evidence-availability correction
+
+The two-CSV checker and invented boundary examples reproduce their declared derived procedures only. Nine released editing rows agree with a retained derived matrix; this does not recover original requests/responses, authenticate source joins, certify historical security adjudication or independently reproduce original inference. See [dated errata](../corrections/V1_ERRATA.md). The 42 unrecovered catalog entries represent 35 distinct missing hashes; five recovered artifacts are not a complete raw-inference archive.

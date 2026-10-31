@@ -11,3 +11,8 @@ Scientific measurements are preserved. The article register distinguishes actual
 License scope is file-specific: MIT for eligible original scripts and CC BY 4.0 for eligible original text and chart expression, as listed in [scope.json](LICENSES/scope.json). Nine eligible derived data or metadata files use CC0 1.0; the three narrative results files use CC BY 4.0 for eligible original expression. See [data terms](LICENSES/DATA-TERMS.md). No license covers restricted evidence, private application materials, third-party assets or any rights the licensor does not hold.
 
 The [content manifest](docs/publication-manifest.json) identifies this payload's files. Publication history, rights attestations and owner approval are maintained in a separate private audit; this document does not invent a publication date, tag, release URL or approval receipt.
+
+
+## Subsequent correction proposal — preserve v0.1.0
+
+The proposed V1 correction record is intended to qualify overconfident source-availability and proof-replay wording; it has not been published by this preparation. Original preparation date: 30 October 2026; targeted editorial revision: 31 October 2026. Neither is a publication or article-insertion date. Record those event dates only after actual publication or insertion; no corrected LinkedIn body is verified here. The 42 unresolved source entries identify 35 distinct missing hashes; derived records are not original observations. This proposal does not replace the historical release, tag, DOI files or its frozen content manifest. Publishing this update requires a separate owner decision.

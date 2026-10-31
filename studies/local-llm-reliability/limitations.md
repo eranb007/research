@@ -1,3 +1,7 @@
+> **Evidence correction:** The original historical narratives below are retained for context. Their current interpretation is governed by the [dated V1 errata](corrections/V1_ERRATA.md), the 28 claim dispositions and the 42-entry missing-source register. Derived documentary agreement and invented controls do not establish recovery or replay of original requests, outputs or historical proof bodies.
+
+---
+
 # Limitations and withheld conclusions
 
 - Small, purposefully selected tasks from one private engineering setting; no representative task or model sampling.
@@ -9,7 +13,7 @@
 - Fixture-family reuse creates contamination/selection risks. Unseen prompt strings do not establish absence of conceptual exposure; model-training contamination cannot be verified from these records.
 - Missing entitlement, logical-key, durability, transaction, transport and production-context guarantees leave bounded findings conditional. Synthetic behavior does not demonstrate a production exploit or its prevalence.
 - Complete historical adjudication remains incomplete even though all selected ledger disagreements have bounded dispositions. Different assessment remits and unresolved judgments are preserved.
-- Original prompts, raw outputs, private source, reviewer bodies and evaluation answers are withheld. Hashes identify artifacts but do not make their contents independently inspectable. Public aggregate replay is not original inference reproduction.
+- Restricted prompts, private source and reviewer bodies are not publicly disclosed; some cataloged original prompts/outputs/proof bodies were additionally not recovered in the bounded audit. Unrecovered and withheld are different availability states. Hashes identify artifacts but do not make their contents independently inspectable. Public aggregate replay is not original inference reproduction.
 - No matched total development/verification cost, energy, savings or productivity effect is demonstrated. Latency and sampled VRAM fields are not universal efficiency or instantaneous resource measurements.
 - No general reliability certification, global model hierarchy, statistical significance, autonomous workflow benefit or official Benchmark V2 result is claimed.
 

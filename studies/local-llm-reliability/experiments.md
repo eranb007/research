@@ -1,3 +1,7 @@
+> **Evidence correction:** The original historical narratives below are retained for context. Their current interpretation is governed by the [dated V1 errata](corrections/V1_ERRATA.md), the 28 claim dispositions and the 42-entry missing-source register. Derived documentary agreement and invented controls do not establish recovery or replay of original requests, outputs or historical proof bodies.
+
+---
+
 # Experimental groups
 
 ## September original study
@@ -10,10 +14,10 @@ Historical hardware/runtime records identify one RTX 3090 with 24 GB, Ollama 0.3
 
 ## October gap experiments and audits
 
-A separate historical protocol specifies matched synthetic twins, inference-budget conditions, additional seeds on selected clean cases, format arms and small real-source navigation/vector/review tasks. It records Ollama 0.35.0 and driver 617.14, a dedicated single-model server, request deadlines of 480 seconds, a 60-second recovery window, an 80-attempt cap and no automatic retries. These are historical protocol settings, not current authorizations or guarantees of physical GPU containment.
+A retained documentary account attributes to a separate historical protocol matched synthetic twins, inference-budget conditions, additional seeds on selected clean cases, format arms and small real-source navigation/vector/review tasks. It records Ollama 0.35.0 and driver 617.14, a dedicated single-model server, request deadlines of 480 seconds, a 60-second recovery window, an 80-attempt cap and no automatic retries. These are historical protocol settings, not current authorizations or guarantees of physical GPU containment.
 
-The protocol separates execution, output and scientific outcomes. It documents scorer refinement before model outputs, revised source-target selection, known fixture-family exposure and an appended preflight amendment. Its pre-specified significance-free descriptive plan does not make correlated observations independent. The zero-inference 76-edit validator audit is a distinct constructed corpus. October performance rates and old attractive summary charts are withheld here pending more granular scorer/rights review; their omission must not be interpreted as zero results.
+The cataloged original protocol bytes were not recovered, so these values do not establish implementation or enforcement. Retained narrative separates execution, output and scientific outcomes and describes scorer refinement before model outputs, revised source-target selection, known fixture-family exposure and an appended preflight amendment. Its pre-specified significance-free descriptive plan does not make correlated observations independent. The reported zero-inference 76-edit validator audit is a distinct constructed corpus whose original source was not recovered; it is not a set of model responses. October performance rates and old attractive summary charts are withheld here pending more granular scorer/rights review; their omission must not be interpreted as zero results.
 
 ## Real-source observations and future work
 
-Private source-task records and a historical grounding-filter case exist, but target-specific implementation details and vulnerability context are excluded from this preview. General verification lessons do not certify deployed fixes. Benchmark V2 is inactive: both inspected execution configurations disable inference and grant zero attempts/GPU seconds, and their locks remain present. No model load, inference, download, benchmark or production operation is part of preparing this package.
+Historical source-task records and a grounding-filter case are cataloged, with original availability subject to the missing-source register, but target-specific implementation details and vulnerability context are excluded from this preview. General verification lessons do not certify deployed fixes. Benchmark V2 is inactive. Earlier documentation reported disabled execution and zero attempts/GPU seconds, but the cataloged historical state, lock and implementation sources were not recovered. This is not a current containment or authorization verification. No model load, inference, download, benchmark or production operation is part of preparing this package.
