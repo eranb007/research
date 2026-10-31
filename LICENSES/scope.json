@@ -175,6 +175,74 @@
     {
       "path": "studies/local-llm-reliability/corrections/V1_ERRATA.md",
       "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "docs/FINAL_RESEARCH_SUMMARY.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "docs/publication-update-phase-b.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/B_MISSING_BEHAVIOR.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/BUNDLE_IDENTITIES.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/CASE_OVERVIEW.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/PRIMARY_OBSERVATIONS.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/REQUEST_CONDITIONS.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_CASE.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_FAMILY.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_MODEL.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_MODEL_FAMILY.csv",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/SUMMARY.json",
+      "license_scope": "CC0-1.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/EVIDENCE_BOUNDARY.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/README.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/REPRODUCIBILITY.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-final-completion/SCORING_AND_LIMITATIONS.md",
+      "license_scope": "CC-BY-4.0"
+    },
+    {
+      "path": "studies/local-llm-reliability/articles/PART4_PROPOSED.md",
+      "license_scope": "CC-BY-4.0"
     }
   ],
   "rights_holder": "Eran Baruch (GitHub: eranb007), only to the extent of rights he controls",

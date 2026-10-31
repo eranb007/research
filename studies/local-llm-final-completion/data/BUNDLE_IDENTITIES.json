@@ -1,0 +1,256 @@
+{
+  "scope": "Recorded model-artifact/runtime bundles; names are metadata, no weights or templates distributed",
+  "models": [
+    {
+      "bundle_index": 1,
+      "model_id": "gemma4:12b",
+      "requested_model": "gemma4:12b",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "4eb23ef187e2c5462566d6a1d3bbbc2f1346d0b4327cbb66d58fffbcc9b2b05c",
+      "config_digest": "sha256:c805f5b265d8e695c44f4065dfc368206cd8026447604925fef8db57ee32ee23",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:1278394b693672ac2799eadc9a83fd98259a6a88a40acfb1dcaa6c6fc895a606",
+          "size": 7381382048
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.projector",
+          "digest": "sha256:675ad6e68101ca9413ec806855c452362f0213f2dfc5800996b086fdb8119842",
+          "size": 175115584,
+          "from": "mmproj-gemma-4-12B-it-bf16.gguf"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.license",
+          "digest": "sha256:0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+          "size": 10174
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:56380ca2ab89f1f68c283f4d50863c0bcab52ae3f1b9a88e4ab5617b176f71a3",
+          "size": 42
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 1024,
+      "ubatch": 1024,
+      "offload": "load_tensors: offloaded 49/49 layers to GPU",
+      "MTP": "No MTP condition asserted beyond registered bundle profile"
+    },
+    {
+      "bundle_index": 2,
+      "model_id": "gemma4:31b",
+      "requested_model": "llamacpp:34095ebb7f49577e8e391475308b510a25d9e70611513b8f71be55a6e24158fe",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "34095ebb7f49577e8e391475308b510a25d9e70611513b8f71be55a6e24158fe",
+      "config_digest": "sha256:3964e29fa173d7b47421cc47db49f132e414b4474e9712b2e572a686ab55a6a7",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:3bf4a7778de8cbf7d110fe7ed915c739368fbe35af643707fb876595ddf037e5",
+          "size": 18670014016
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.projector",
+          "digest": "sha256:490a719980a3fd6e1b4f1b3e67d539a4486268d5ee40abe49e8e0b8b74fb527b",
+          "size": 1200725728
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.license",
+          "digest": "sha256:7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+          "size": 11355,
+          "from": "gemma4:31b"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:56380ca2ab89f1f68c283f4d50863c0bcab52ae3f1b9a88e4ab5617b176f71a3",
+          "size": 42,
+          "from": "gemma4:31b"
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 512,
+      "ubatch": 512,
+      "offload": "load_tensors: offloaded 61/61 layers to GPU",
+      "MTP": "No MTP condition asserted beyond registered bundle profile"
+    },
+    {
+      "bundle_index": 3,
+      "model_id": "glm-4.7-flash:q4_K_M",
+      "requested_model": "llamacpp:96b29057eca088c7d2707398bfb2eadabd7ac1100d2520da41ca9dcdf67a77d7",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "96b29057eca088c7d2707398bfb2eadabd7ac1100d2520da41ca9dcdf67a77d7",
+      "config_digest": "sha256:143dfbd57c684d58705dc65eacb57bb8c50ffcb2e9a39791d0a55b8d6dbc21fa",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:59e12ed630390696d3cb485510594efb6f71ef801e768d6637f064201fde937b",
+          "size": 19019269312
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.license",
+          "digest": "sha256:b1bca6ec8117a09783df643e500e7331c5d6ea79fe4ba4d29d9a256c2f794a83",
+          "size": 1068,
+          "from": "glm-4.7-flash:q4_K_M"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:543c6a8262f92e6383f5ab7c13f8a55e8f4c2a00b5ecdf3822c6d5489ffd66b7",
+          "size": 63,
+          "from": "glm-4.7-flash:q4_K_M"
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 512,
+      "ubatch": 512,
+      "offload": "load_tensors: offloaded 48/48 layers to GPU",
+      "MTP": "No MTP condition asserted beyond registered bundle profile"
+    },
+    {
+      "bundle_index": 4,
+      "model_id": "granite4.2:30b",
+      "requested_model": "granite4.2:30b",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "be22829aa92aad40153c3b2cfd628269ac9281967e74c44d96750568a5af8ed4",
+      "config_digest": "sha256:d02aafe432dea49f6b7ab74f67819691d2ef29b99bfb1529b56d1a68ea9ddf20",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:f299dace85d77ee0e24ca0b6720bd211b1f4cd1f65b9c0a2111e79692e29c9be",
+          "size": 17721455328,
+          "from": "/Users/runner/.ollama/models/blobs/sha256-f299dace85d77ee0e24ca0b6720bd211b1f4cd1f65b9c0a2111e79692e29c9be"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.license",
+          "digest": "sha256:58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+          "size": 11357
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:02897ca0d6a33881b1581b775af2884e9eed3ea9b7db8141e0dc0ef2e707fd18",
+          "size": 31
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 512,
+      "ubatch": 512,
+      "offload": "load_tensors: offloaded 65/65 layers to GPU",
+      "MTP": "No MTP condition asserted beyond registered bundle profile"
+    },
+    {
+      "bundle_index": 5,
+      "model_id": "qwen3.8:27b",
+      "requested_model": "qwen3.8:27b",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "22130167c4c20e20c7b71454612966ca8e8171e9b3cc8ab6ce8aa6cbfec79643",
+      "config_digest": "sha256:492b2922d38e553cabc2d319345644ed482874fbf5e5c9e4495cbf8e17b0cf5f",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.projector",
+          "digest": "sha256:ac3714bfdddeca31351f2752bf1a63f266f4df87c0b68c895e44945ca704448e",
+          "size": 931146016,
+          "from": "qwen3.8:27b-q4_K_M"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:f5f1dd8920d417aac2718b0bda3403da274301efdd6760b4f0f4b864ff2ad57d",
+          "size": 16810714464,
+          "from": "qwen3.8:27b-q4_K_M"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.license",
+          "digest": "sha256:4c6a8e842ef0d8504549facfb03f1273a8d0022991519bc1888522cc1a5517d1",
+          "size": 11345,
+          "from": "qwen3.8:27b-q4_K_M"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:906ee87bde6cff7bf3c3b1550f55cbbec261e027187fbb9f511f908ffc418334",
+          "size": 114
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 512,
+      "ubatch": 512,
+      "offload": "load_tensors: offloaded 66/66 layers to GPU",
+      "MTP": "Target-model MTP retained,draft maximum4"
+    },
+    {
+      "bundle_index": 6,
+      "model_id": "qwen3-coder:30b",
+      "requested_model": "qwen3-coder:30b",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "06c1097efce0431c2045fe7b2e5108366e43bee1b4603a7aded8f21689e90bca",
+      "config_digest": "sha256:24a94682582c6045f4950846fc7711479dcecb478b86759f0306a2ef8484d318",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:1194192cf2a187eb02722edcc3f77b11d21f537048ce04b67ccf8ba78863006a",
+          "size": 18556688736
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.license",
+          "digest": "sha256:d18a5cc71b84bc4af394a31116bd3932b42241de70c77d2b76d69a314ec8aa12",
+          "size": 11338
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:69aa441ea44ff5e1e7b56cac4f471e71e8a5e2e3963c29684a9234d5d5e5f7aa",
+          "size": 148
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 512,
+      "ubatch": 512,
+      "offload": "load_tensors: offloaded 49/49 layers to GPU",
+      "MTP": "No MTP condition asserted beyond registered bundle profile"
+    },
+    {
+      "bundle_index": 7,
+      "model_id": "devstral-small-2:24b",
+      "requested_model": "llamacpp:33af3142213a8f079412a71bb6a9759c35f5adf448c9d6d27e3994cde07679c8",
+      "quantization": "Q4_K_M",
+      "artifact_digest": "33af3142213a8f079412a71bb6a9759c35f5adf448c9d6d27e3994cde07679c8",
+      "config_digest": "sha256:4b1eb010c1c6a308588ab26a32957e1a3c41d4c3388df1e891ebb70248035a7d",
+      "ordered_layers": [
+        {
+          "mediaType": "application/vnd.ollama.image.model",
+          "digest": "sha256:0dff007032ea7d27c55a5353bdd780ce74d2f9c703f727d4c203e5c16a751d43",
+          "size": 14331728608
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.projector",
+          "digest": "sha256:3edb4ff33d1514e89c46b519c9b1ffe4ca82bc81c4359c71eb17d2a55e3f7ce1",
+          "size": 845661920
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.template",
+          "digest": "sha256:580f051b6624bd17f29bb37554ec19feb4ab18cda4f948739016b6a5f300b026",
+          "size": 3418,
+          "from": "devstral-small-2:24b"
+        },
+        {
+          "mediaType": "application/vnd.ollama.image.params",
+          "digest": "sha256:e0daf17ff83eace4813f9e8554b262f6cc33ad880ff8df41a156ff9ef5522ddb",
+          "size": 21,
+          "from": "devstral-small-2:24b"
+        }
+      ],
+      "historical_weight_equivalence": "NOT_ESTABLISHED",
+      "runtime": "Ollama0.40.1 / pinned llama-server.exe / CUDA12",
+      "batch": 1024,
+      "ubatch": 1024,
+      "offload": "load_tensors: offloaded 41/41 layers to GPU",
+      "MTP": "No MTP condition asserted beyond registered bundle profile"
+    }
+  ],
+  "runtime": "Pinned Ollama 0.40.1 / llama-server.exe / CUDA12",
+  "runner_sha256": "2660eddb4f012b659f4c25a6ba55a6502263177e2ce631d0df20da8765631148",
+  "CUDA_backend_sha256": "2606bd5295e75dc83293c191aa15f8e632949eaed1b47a45f637b38592f2dfc6"
+}

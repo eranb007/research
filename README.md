@@ -37,3 +37,8 @@ RAG optimization, agent architectures and autonomous systems are future directio
 ## V1 evidence-availability correction record
 
 The [V1 errata](studies/local-llm-reliability/corrections/V1_ERRATA.md) qualify the historical summaries above. The Git commit and ref containing this record identify its repository version. Availability on GitHub does not itself verify a LinkedIn article-body correction, an external correction URL or a publication event date. Those require separate evidence; Part 4 publication remains on HOLD pending its separate requirements and owner approval. In particular, original source bytes were not recovered for 42 catalog entries (35 distinct hashes). Retained matrices and invented offline analogues do not establish recovery or replay of those originals. Earlier narrative statements about inspected proofs or restricted original evidence must be read with this correction. The archived v0.1.0 release is preserved unchanged.
+
+
+## Final prospective comparison — separate from V1
+
+The [final research companion](studies/local-llm-final-completion/README.md) reports a separate seven-bundle, twelve-case, two-seed experiment: 168 planned units, 164 attempts, 163 delivered outputs, one HTTP 500 and four unexecuted units. Primary full-task successes are 90/168; primary behavior is 102 correct, 47 incorrect and 19 missing. Fourteen delivered B outputs lack behavior verdicts. Review is AI/nonblind; the extraction-sensitive alternative is conditional only. These observations do not establish a general ranking, production reliability, hardware performance or independent replication. V1 corrections accompany the series closure.

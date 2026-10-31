@@ -1,0 +1,13 @@
+case_id,family,purpose,finite_scope
+B1,B,Async list result extraction; preserve unrelated source and rejection behavior,4 finite API scenarios
+B2,B,Clamped paging limit and offset; preserve synchronous API and unrelated source,224 integer pairs
+B3,B,Null/absent defaults while retaining valid false and zero values,20 combinations
+B4,B,"Async record extraction, null/falsy data and unchanged rejection","6 scenarios; id=7 throughout; deep value, not reference identity"
+C1,C,Test/oracle reasoning: classify implementations and supply discriminating tests for the adjacent-integer pair contract,7 integers
+C2,C,Test/oracle reasoning: classify implementations and supply discriminating tests for the half-open range contract,10 integers
+C3,C,Test/oracle reasoning: classify implementations and supply discriminating tests for the typed null-only fallback contract,7 typed values
+C4,C,Test/oracle reasoning: classify implementations and supply discriminating tests for the string-normalization contract,7 supplied strings
+D1,D,Static dependency reachability and direct/indirect partition,6-file snapshot
+D2,D,Static dependency cycle and reachability handling,5-file snapshot
+D3,D,Exact / .js / index.js resolution precedence,6-file snapshot
+D4,D,"Missing internal contract, bare external request and unreachable decoy",5-file snapshot; decoy is unreachable

@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "kind": "DOCUMENTARY_COMPANION_CONTENT_MANIFEST_NOT_PUBLICATION_RECEIPT",
+  "phase": "B",
+  "base_commit": "2a17dab44762b1ac466be6c1aa66adc3abf91213",
+  "preceding_phase": "Phase A published and verified on GitHub",
+  "historical_manifest_preserved": "docs/publication-manifest.json",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1532,
+      "sha256": "c5b8d6d9fd56efcb36dad9c4b6a25f9d10c940a6abfbfc44c7591986e710c294"
+    },
+    {
+      "path": "LICENSES/scope.json",
+      "bytes": 8466,
+      "sha256": "118a1f11e05c908f56c142753e9110c1753ec52e0da3aa29c93e4ba9d9477bc2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7905,
+      "sha256": "130822657f7aa94e17b607311af52f70bf0786b7f6a4a338a34db1c59b26ddac"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 4128,
+      "sha256": "bbe146e715a5f5cb50e9bfbd5eb36ae37260e8cab249721e61e3a9830da0e853"
+    },
+    {
+      "path": "docs/FINAL_RESEARCH_SUMMARY.md",
+      "bytes": 2533,
+      "sha256": "f0a9ac09eccbfaa8147fc48c445153f50e89e51c6cfdc7f0db8f6bcea7d70917"
+    },
+    {
+      "path": "studies/local-llm-final-completion/EVIDENCE_BOUNDARY.md",
+      "bytes": 2505,
+      "sha256": "d853b1095b9d25caeb218aea6a4ea8e50c0ce2ac0821e3fd76601da06c0ba18e"
+    },
+    {
+      "path": "studies/local-llm-final-completion/README.md",
+      "bytes": 9557,
+      "sha256": "899c0ad0f4eed9ae74b903df4e36b8512fa79c3fe3e45ad230d88bb106c0819a"
+    },
+    {
+      "path": "studies/local-llm-final-completion/REPRODUCIBILITY.md",
+      "bytes": 2654,
+      "sha256": "41011389032ae0a0d09a3bb168d5f3a0c314dbd7945a2fe7b3c9ae98e344c07b"
+    },
+    {
+      "path": "studies/local-llm-final-completion/SCORING_AND_LIMITATIONS.md",
+      "bytes": 4553,
+      "sha256": "4a56527bad20d1fc8570418afe163664815c0592a690f6b722c38b0f2d6175bd"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/BUNDLE_IDENTITIES.json",
+      "bytes": 10922,
+      "sha256": "60a335c334ca47c4d7aa1b3485da498e41397ade17173961b7ab18ba0d837a66"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/B_MISSING_BEHAVIOR.csv",
+      "bytes": 906,
+      "sha256": "8b0da97b1a7184152539b2e2b4081023d623c7d010b080036fea2f15ff5de487"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/CASE_OVERVIEW.csv",
+      "bytes": 1354,
+      "sha256": "86c00796a851624cce77e67c6cb3ec6873b1cdf2a13196ab438bd6403b9f6649"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/PRIMARY_OBSERVATIONS.csv",
+      "bytes": 17296,
+      "sha256": "382a617a8715497cfe650f52cc8b1a65d2d7579d15462da4f66258b10dcdcd0f"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/REQUEST_CONDITIONS.json",
+      "bytes": 774,
+      "sha256": "c25fffe92145f2efac4b3db9bae47947ba15f4cc9c7eef3838f84de5c1f63f8d"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_CASE.csv",
+      "bytes": 393,
+      "sha256": "4599865ef04159d32b297996666c37160dd4b54bb07c266d0064b2b907c942ba"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_FAMILY.csv",
+      "bytes": 157,
+      "sha256": "f7087b8e36aaf65944b40428dd015a69893cfc78d9627a6a1be9b4e66382ea13"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_MODEL.csv",
+      "bytes": 356,
+      "sha256": "496fac329c917a6b17844a1be8f87f3eb26cda578feb5a2d8ff939c45cab2810"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/RESULTS_BY_MODEL_FAMILY.csv",
+      "bytes": 862,
+      "sha256": "7c54cd6de44b464841c7eeba181fd77c3d86b7da442e3949b76953114d47b63a"
+    },
+    {
+      "path": "studies/local-llm-final-completion/data/SUMMARY.json",
+      "bytes": 683,
+      "sha256": "2e2fba5d407fcede790d36a09450fdc240fb14b8cc14f87858a460237dc358fc"
+    },
+    {
+      "path": "studies/local-llm-reliability/README.md",
+      "bytes": 3801,
+      "sha256": "4cf5dfce5a5d99118fc6d9a29101ceaaa173e894cd07ecd51af7b51ac7808c1c"
+    },
+    {
+      "path": "studies/local-llm-reliability/articles/PART4_PROPOSED.md",
+      "bytes": 9728,
+      "sha256": "705c4f98816c2d1395478da697e747bec126cea1c5030405b93b3c90541f1f79"
+    },
+    {
+      "path": "studies/local-llm-reliability/articles/README.md",
+      "bytes": 5758,
+      "sha256": "327b18ddcd053eced4478813151436052c4c67dda771b74cd7c902e0eab910a1"
+    },
+    {
+      "path": "studies/local-llm-reliability/limitations.md",
+      "bytes": 3531,
+      "sha256": "905c349d65d5df0251478511ed78d1216b1dcd6d56739d60f314f58071f9e29a"
+    },
+    {
+      "path": "studies/local-llm-reliability/roadmap.md",
+      "bytes": 1691,
+      "sha256": "a2e109748f5263ac8303bcbe4bfb13bbd3083af8aa781cf12f4b630dc546cc5c"
+    }
+  ],
+  "self_hash_policy": "Excluded from own list; external private owner manifest binds this file",
+  "phase_A_merge_commit": "2a17dab44762b1ac466be6c1aa66adc3abf91213",
+  "phase_A_correction_URL": "https://github.com/eranb007/research/blob/main/studies/local-llm-reliability/corrections/V1_ERRATA.md",
+  "phase_A_actual_merge_UTC": "2026-10-31T09:10:55Z",
+  "original_preparation_date": "2026-10-30",
+  "editorial_alignment_date": "2026-10-31",
+  "receipt_boundary": "Content identities only; this manifest is not an authorization, publication receipt or LinkedIn edit verification.",
+  "PART4_PUBLICATION": "HOLD"
+}

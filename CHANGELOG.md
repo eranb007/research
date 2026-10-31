@@ -12,3 +12,8 @@ The article register links verified LinkedIn Parts 1-3 and records their publish
 ## V1 evidence correction record
 
 Add dated errata, all 28 claim dispositions and all 42 missing-source entries; correct source-availability wording without changing original scalar measurements or the historical release. This change is a documentary correction, not new model inference.
+
+
+## Final research companion and Part 4 editorial source
+
+Add a separately identified prospective study companion and sanitized primary counts with all 168 identities retained. Preserve 164 attempts, 163 delivered outputs, one HTTP 500, four unexecuted units, missing behavior evidence, frozen primary scores and conditional review only. Add the Part 4 editorial source, with external publication a separate owner decision. No historical release is replaced.
