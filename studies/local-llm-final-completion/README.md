@@ -2,6 +2,10 @@
 
 Study **LOCAL-LLM-FINAL-COMPLETION**; campaign **FC-SCORED-20261028-R1**. Prepared 30 October 2026 as a proposed public research companion. This is a descriptive, bounded experiment on recorded model-artifact/runtime bundles, not a universal model leaderboard or an independent replication of V1.
 
+## Published research archive
+
+The completed series-closure archive was published by the author on Zenodo as [v0.2.0-series-closure](https://zenodo.org/records/23846229), version DOI [`10.5281/zenodo.23846229`](https://doi.org/10.5281/zenodo.23846229), under the preserved concept DOI [`10.5281/zenodo.23277566`](https://doi.org/10.5281/zenodo.23277566). Its contents derive from pinned GitHub commit [`b29489e45f65`](https://github.com/eranb007/research/commit/b29489e45f6597a36c7cdb4ee3d42d7fa89c80b5). The packaged `data/BUNDLE_IDENTITIES.json` removes a single redundant absolute Ollama blob path field `models[3].ordered_layers[0].from` for distribution; the adjacent digest and all scores are unchanged. This is a documented packaging-only distinction, not a new experiment or recovery of unavailable historical evidence.
+
 ## Questions and design
 
 The study asks how the registered bundles satisfy finite engineering contracts, how task compliance differs from behavioral correctness, and where deterministic checks and AI review disagree. Seven bundles each received twelve related purpose-built cases at seeds 101 and 202: **168 planned scored units**. Two seeds do not turn the twelve cases into 168 independent tasks. Tasks, reference answers, scoring contracts and the registry were frozen before scored execution. The earlier closed preparation study is not this executed campaign.

@@ -26,3 +26,12 @@ The final companion distinguishes V1 historical documentary results, constructed
 ## Subsequent LinkedIn publication record — 31 October 2026
 
 The author reported publication of [Part 4: **Who Validates the AI Validator?**](https://www.linkedin.com/pulse/who-validates-ai-validator-eran-baruch-zexnf) on LinkedIn on 31 October 2026. Earlier references here to Part 4 being on HOLD reflect the prepublication decision state and are superseded as a status report. This record does not independently verify the exact article-body bytes, certify prior private approval gates, insert correction notices into Parts 1–3 or modify the archived v0.1.0 release or DOI.
+
+
+## Published Zenodo v0.2.0-series-closure — 31 October 2026
+
+The author confirmed publication of [**Applied AI Research: Local LLM Reliability and Evaluator Evidence**](https://zenodo.org/records/23846229) as Zenodo version `0.2.0-series-closure`, DOI [`10.5281/zenodo.23846229`](https://doi.org/10.5281/zenodo.23846229). This is a new archive in the existing concept DOI series `10.5281/zenodo.23277566`; it does not replace the version-specific v0.1.0 DOI or the original GitHub release.
+
+The published ZIP is a sanitized derivative of pinned public GitHub commit [`b29489e45f6597a36c7cdb4ee3d42d7fa89c80b5`](https://github.com/eranb007/research/commit/b29489e45f6597a36c7cdb4ee3d42d7fa89c80b5). Sixty allowlisted source entries were packaged with version-specific metadata. One `from` property containing an absolute local path was removed from the packaged `BUNDLE_IDENTITIES.json` only, while its adjacent layer digest and the scientific observations remained unchanged. Codex's final release validation reported ZIP SHA-256 `3cd3aec782b083b28ac704a99b45aa48ce63bb8e266c113c0e324ec2f60eaf13` and `READY_FOR_OWNER_ZENODO_UPLOAD`. This documentation records the author's subsequent published Zenodo page; a fresh independent download/hash check of Zenodo-hosted bytes is not claimed.
+
+Version-specific `CITATION.cff` in the ZIP and the historical tag remain frozen; the active repository `CITATION.cff` is updated to cite v0.2.0. No new GitHub tag/release, primary inference, broad scientific review, or LinkedIn correction insertion is claimed.

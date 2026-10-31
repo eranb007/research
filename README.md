@@ -6,7 +6,11 @@ Under what conditions can language models take meaningful software-engineering r
 
 [Local LLM reliability in software-engineering workflows](studies/local-llm-reliability/README.md) is the first study. It draws on project-derived fixtures, repository excerpts and deterministic audits from a private development environment. This research preview presents selected historical observations, methods, explicit limits and offline aggregate checks. Primary experimental artifacts remain restricted.
 
-## Archived release and citation
+## Published versions and citation
+
+The **current series-closure archive** is published at Zenodo as [**v0.2.0-series-closure**](https://zenodo.org/records/23846229) — **[version DOI 10.5281/zenodo.23846229](https://doi.org/10.5281/zenodo.23846229)**, with publication date shown as 31 October 2026. The DOI represents the sanitized ZIP archive, not an independently reproduced inference experiment. The active [CITATION.cff](CITATION.cff) on `main` now cites this version and identifies its frozen source commit [`b29489e45f65`](https://github.com/eranb007/research/commit/b29489e45f6597a36c7cdb4ee3d42d7fa89c80b5). No GitHub Release or tag for v0.2.0 is asserted.
+
+The v0.2.0 archive was assembled from 60 public allowlisted source files at the pinned commit with version-specific metadata. One absolute local Ollama blob path (`models[3].ordered_layers[0].from`) was removed *only from the distributed derivative* of `studies/local-llm-final-completion/data/BUNDLE_IDENTITIES.json`; its adjacent model layer digest and all scientific results were retained. The release-validation ZIP SHA-256 was reported as `3cd3aec782b083b28ac704a99b45aa48ce63bb8e266c113c0e324ec2f60eaf13`; the Zenodo-hosted bytes were not separately downloaded and hashed in this repository update. The frozen `docs/publication-manifest.json` remains the historic v0.1.0 manifest, not a v0.2.0 file list.
 
 The first research preview is permanently archived at Zenodo: **[version DOI 10.5281/zenodo.23277567](https://doi.org/10.5281/zenodo.23277567)**. To cite this exact release, use the version DOI. The [concept DOI 10.5281/zenodo.23277566](https://doi.org/10.5281/zenodo.23277566) identifies the series of archived versions.
 

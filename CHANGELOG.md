@@ -1,5 +1,9 @@
 # Portfolio changelog
 
+## v0.2.0-series-closure — Zenodo publication (31 October 2026)
+
+The author published [the completed series-closure research archive](https://zenodo.org/records/23846229) under version DOI [`10.5281/zenodo.23846229`](https://doi.org/10.5281/zenodo.23846229), continuing the original [concept DOI](https://doi.org/10.5281/zenodo.23277566). The new 168-unit prospective comparison, evidence-availability errata and published Part 4 narrative are documented, not retrospectively integrated into the historic v0.1.0 archive. The packaged source was pinned to [`b29489e45f65`](https://github.com/eranb007/research/commit/b29489e45f6597a36c7cdb4ee3d42d7fa89c80b5), with a single release-only removal of a redundant local Ollama blob path; scientific values were unchanged. Publication was confirmed by the author's Zenodo screen capture, not by an independent download-and-hash of the hosted ZIP. The older v0.1.0 DOI, GitHub release, manifest and Zenodo record remain unchanged.
+
 ## v0.1.0-research-preview
 
 First curated preview: portfolio overview, one qualified local-model study, aggregate data, offline checks and disclosure policy.
