@@ -25,3 +25,8 @@ The selected reconciliation ledger is fully reviewed at v1.25: 585 selected fiel
 - [Figures](figures/README.md), [articles](articles/README.md) and [roadmap](roadmap.md).
 
 Public reproduction covers the declared aggregate checks, figure derivation and invented boundary demonstrations; it does not authenticate missing historical source bodies or joins. It does not reproduce original inference, the private application or the original validator. Future matched experiments need a frozen protocol and separate execution authorization. No workflow benefit, global model ranking, production safety, statistical significance or measured cost saving is established.
+
+
+## Later prospective experiment
+
+The [final comparison companion](../local-llm-final-completion/README.md) is a separate experiment with its own registered cases, bundle identities, frozen scores and incomplete execution. It does not restore unavailable V1 evidence or establish historical weight equivalence.

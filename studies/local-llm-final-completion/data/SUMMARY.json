@@ -1,0 +1,32 @@
+{
+  "study": "LOCAL-LLM-FINAL-COMPLETION",
+  "campaign": "FC-SCORED-20261028-R1",
+  "primary": {
+    "planned": 168,
+    "attempted": 164,
+    "delivered": 163,
+    "K": 90,
+    "F": 74,
+    "operational_U": 4,
+    "C": 102,
+    "I": 47,
+    "semantic_U": 0,
+    "M": 19
+  },
+  "conditional_only": {
+    "behavior_C": 103,
+    "behavior_I": 47,
+    "behavior_U": 3,
+    "behavior_M": 15,
+    "task_K": 90,
+    "operational_F": 74,
+    "operational_U": 4,
+    "reviewed_sample_C_primary": 29,
+    "reviewed_sample_C_conditional": 30,
+    "not_a_primary_rescore": true
+  },
+  "EXECUTION": "GLOBAL_STOP",
+  "EXECUTION_READY": false,
+  "SCORED_INFERENCE": 164,
+  "PUBLICATION": "HOLD"
+}

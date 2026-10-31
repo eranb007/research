@@ -1,0 +1,15 @@
+unit_id,model_id,case_id,seed,primary_semantic_status,primary_semantic_class,reviewed
+FC-S101-B1-M3,glm-4.7-flash:q4_K_M,FC-B1,101,NO_CODE,M,False
+FC-S101-B1-M4,granite4.2:30b,FC-B1,101,NO_CODE,M,False
+FC-S101-B2-M4,granite4.2:30b,FC-B2,101,NO_CODE,M,False
+FC-S101-B2-M6,qwen3-coder:30b,FC-B2,101,NO_CODE,M,False
+FC-S101-B4-M3,glm-4.7-flash:q4_K_M,FC-B4,101,NO_CODE,M,False
+FC-S101-B4-M4,granite4.2:30b,FC-B4,101,NO_CODE,M,True
+FC-S101-B4-M6,qwen3-coder:30b,FC-B4,101,NO_UNIQUE_EXTRACTION,M,True
+FC-S202-B4-M3,glm-4.7-flash:q4_K_M,FC-B4,202,NO_CODE,M,True
+FC-S202-B4-M4,granite4.2:30b,FC-B4,202,NO_CODE,M,True
+FC-S202-B4-M6,qwen3-coder:30b,FC-B4,202,NO_UNIQUE_EXTRACTION,M,False
+FC-S202-B2-M4,granite4.2:30b,FC-B2,202,NO_CODE,M,False
+FC-S202-B2-M6,qwen3-coder:30b,FC-B2,202,NO_CODE,M,False
+FC-S202-B1-M3,glm-4.7-flash:q4_K_M,FC-B1,202,NO_CODE,M,False
+FC-S202-B1-M4,granite4.2:30b,FC-B1,202,NO_CODE,M,False

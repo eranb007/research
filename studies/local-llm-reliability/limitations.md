@@ -18,3 +18,8 @@
 - No general reliability certification, global model hierarchy, statistical significance, autonomous workflow benefit or official Benchmark V2 result is claimed.
 
 Public tables retain original scalar measurements without replacing historical labels. Newly curated UNKNOWN wording preserves uncertainty about semantic quality when output was unevaluable. Constructed demonstrations and new aggregate validators are labelled as new tools and never substitute for original scorers.
+
+
+## Later study remains separate
+
+The final comparison has twelve related cases and two seeds, 163 delivered outputs from 168 planned units, fourteen delivered B outputs without behavior verdicts, ten of those not reviewed, an unresolved B4-M6 extraction interpretation and AI/nonblind review. Its descriptive results cannot retrospectively repair V1 source gaps. See the separate companion limitations.

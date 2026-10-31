@@ -1,0 +1,28 @@
+{
+  "example_common_body_fields": {
+    "format": "json",
+    "stream": false,
+    "think": false,
+    "keep_alive": 0,
+    "options": {
+      "num_ctx": 16384,
+      "num_predict": 4096,
+      "temperature": 0.1,
+      "top_p": 0.95,
+      "top_k": 40,
+      "repeat_penalty": 1.0,
+      "repeat_last_n": 64,
+      "min_p": 0,
+      "typical_p": 1,
+      "presence_penalty": 0,
+      "frequency_penalty": 0
+    }
+  },
+  "seeds": [
+    101,
+    202
+  ],
+  "scope": "Parameter metadata; not a complete prompt, native profile or public rerun kit",
+  "model_specific_profiles": "BUNDLE_IDENTITIES.json; per-attempt private native verification, with stated observability limits",
+  "primary_protocol_sha256": "62640fe3b5a72594d605582b4f916f519d6eb23da1a2243409a5ea983debc597"
+}
