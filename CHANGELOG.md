@@ -9,6 +9,6 @@ The revision adds optimization-safe validation and negative tests, strengthens t
 The article register links verified LinkedIn Parts 1-3 and records their published titles and displayed dates. It preserves the original prospective roadmap and dated research checkpoints; no new model result is introduced.
 
 
-## Proposed V1 evidence correction
+## V1 evidence correction record
 
 Add dated errata, all 28 claim dispositions and all 42 missing-source entries; correct source-availability wording without changing original scalar measurements or the historical release. This change is a documentary correction, not new model inference.

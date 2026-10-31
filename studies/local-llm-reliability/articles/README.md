@@ -28,4 +28,4 @@ This repository contains a derived register, summaries and curated data, not the
 
 ## Dated correction record
 
-Consult [V1 errata](../corrections/V1_ERRATA.md) and its complete 28-claim and 42-entry tables before citing Parts 1–3. The preserved article/register observations do not establish current article-body equality, corrected LinkedIn text, or an accessible corrections URL. The historic preview and DOI version remain unchanged. Part 4 remains pending separate owner approval.
+Consult [V1 errata](../corrections/V1_ERRATA.md) and its complete 28-claim and 42-entry tables before citing Parts 1–3. The repository correction record and its Git version identify the corrections available in that version. This does not establish current article-body equality, corrected LinkedIn text or independent verification of an external correction URL. LinkedIn correction notices are uninserted templates requiring separate authorization and actual insertion dates. The historic preview and DOI version remain unchanged. Part 4 publication remains on HOLD pending its separate requirements and owner approval.

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "kind": "PROPOSED_DOCUMENTARY_UPDATE_NOT_PUBLICATION_RECEIPT",
+  "kind": "DOCUMENTARY_CORRECTION_CONTENT_MANIFEST_NOT_PUBLICATION_RECEIPT",
   "phase": "A",
   "base_commit": "1e89331d95f242a8a35dc03486932db7d6dc54fd",
   "preceding_phase": "unchanged baseline",
@@ -8,8 +8,8 @@
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 1074,
-      "sha256": "62c3ed4ba96b59e02bd64f28319d1efaed2bd4bce1847069ec9a82c1f826a491"
+      "bytes": 1072,
+      "sha256": "fb25293f44025f0736d3375b622ecbb7da6bf914677bff9611f652d48829fe24"
     },
     {
       "path": "LICENSES/scope.json",
@@ -18,18 +18,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 7046,
-      "sha256": "b16780a04f3b99a400467ffa80f94e74dd98f5629455bd13cd1c9df6d32aaa6d"
+      "bytes": 7200,
+      "sha256": "344a66a9999a211b422b029e4bed4aac41b5315d41335ca24b4f5ee0a8d19110"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "bytes": 2897,
-      "sha256": "cf4a20b82f08b4b12a004ee5b88a6aaf038c5f3172a6c0d8d7f667dd0be7b867"
+      "bytes": 3102,
+      "sha256": "7a5e462f0a866338fcc54c8e9e8d9f3b61bfb8095d439f27a2559b7977cbd801"
     },
     {
       "path": "studies/local-llm-reliability/articles/README.md",
-      "bytes": 4353,
-      "sha256": "4f5553a164591aab1c2c64e132463c1dd6159a419d6148915d0503618a80113d"
+      "bytes": 4600,
+      "sha256": "dc150bdd769bb86d5f1bb0d217270d02f90946f9b1689dcace20a34860ececd0"
     },
     {
       "path": "studies/local-llm-reliability/CHANGELOG.md",
@@ -53,8 +53,8 @@
     },
     {
       "path": "studies/local-llm-reliability/corrections/V1_ERRATA.md",
-      "bytes": 9068,
-      "sha256": "3c20be8c63f36471272d1496f109e84f36aff2e67b9f81685f1cabe3d5b6960b"
+      "bytes": 9218,
+      "sha256": "d7154117db944102568e06549a993852d972df3a8245c3d9c3dae070fdd47d1e"
     },
     {
       "path": "studies/local-llm-reliability/experiments.md",
@@ -93,16 +93,17 @@
     },
     {
       "path": "studies/local-llm-reliability/results/README.md",
-      "bytes": 6241,
-      "sha256": "4b639cda873f5e49820567845887078b4e86e34957c9a3e3046099dc3fb38bcf"
+      "bytes": 6309,
+      "sha256": "f2d51790fb38631a65936192baa2dff51408b447f16957471ffa278b30d6b87d"
     }
   ],
   "self_hash_policy": "Excluded from own list; external private owner manifest binds this file",
-  "PUBLICATION": "HOLD",
   "preparation_date": "2026-10-30",
   "targeted_editorial_revision_date": "2026-10-31",
-  "publication_status": "STAGED_PROPOSAL_NOT_PUBLISHED",
-  "published_at": null,
-  "external_article_correction_status": "NOT_VERIFIED; no external article edit authorized or performed by this preparation",
-  "publication_authorization": "NOT_GRANTED"
+  "publication_status": "NOT_ASSERTED_BY_THIS_CONTENT_MANIFEST",
+  "external_article_correction_status": "NOT_VERIFIED_BY_THIS_CONTENT_MANIFEST; LinkedIn notices are uninserted templates requiring separate authorization and actual insertion dates",
+  "publication_authorization": "NOT_ASSERTED_BY_THIS_CONTENT_MANIFEST",
+  "published_at_recorded_by_this_file": null,
+  "PART4_PUBLICATION": "HOLD",
+  "receipt_boundary": "Content identity and provenance only. This file is not a merge/publication receipt, owner authorization or external URL verification. Actual events and dates require separate evidence."
 }

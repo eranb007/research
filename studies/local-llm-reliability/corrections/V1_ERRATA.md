@@ -1,6 +1,6 @@
 # Dated correction and evidence-closure record for Parts 1–3
 
-Preparation date: 30 October 2026 (retained historical metadata). Targeted editorial revision: 31 October 2026. Status: staged proposal; no public correction publication or article insertion date is established here. When separately published or inserted, record the actual event date rather than reusing either preparation date. This proposed record corrects evidential interpretation, not original measurements. The historical preview release and archived version remain unchanged. Publication of a repository correction would not itself establish that LinkedIn article bodies have been edited.
+Preparation date: 30 October 2026 (retained historical metadata). Targeted editorial revision: 31 October 2026. Record scope: the corrections in the Git version containing this document. It does not record a merge/publication event, owner authorization or external URL verification. Use actual event dates in separate publication/insertion receipts rather than either preparation date. This record corrects evidential interpretation, not original measurements. The historical preview release and archived version remain unchanged. GitHub correction availability does not itself establish that LinkedIn article bodies have been edited; the linked notices remain uninserted templates until separately authorized. Part 4 publication remains on HOLD.
 
 ## Scope and available sources
 

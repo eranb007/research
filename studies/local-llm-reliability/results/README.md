@@ -1,4 +1,4 @@
-> **Staged evidence correction:** The historical documentary narratives below are retained for context and qualified by the [proposed V1 errata](../corrections/V1_ERRATA.md), the 28 claim dispositions and the 42-entry missing-source register. This proposal is not a receipt of publication or external article correction. Derived documentary agreement and invented controls do not establish recovery or replay of original requests, outputs or historical proof bodies.
+> **Evidence correction record:** The historical documentary narratives below are retained for context and qualified by the [V1 errata](../corrections/V1_ERRATA.md), the 28 claim dispositions and the 42-entry missing-source register. Availability of this record in a GitHub version is not a merge/publication receipt, owner authorization or verification of an external article correction. Derived documentary agreement and invented controls do not establish recovery or replay of original requests, outputs or historical proof bodies.
 
 ---
 
