@@ -15,8 +15,8 @@ Link verification establishes the accessible destination, title, author and seri
 
 ## Historical qualifications and corrections
 
-- The validator article material internally labeled Article 1 retains an appendix at **v1.2: 32 bounded outcomes and 397 unreviewed selected fields**. Those are dated checkpoint values, not the current coverage.
-- The separate Part 3 draft uses a **7 October 2026 / v1.24 snapshot: 120 bounded assessment units and 58 unreviewed selected fields**. Its historical statement must not be silently read as the latest state.
+- A cataloged account of the validator material internally labeled Article 1 attributes to its appendix **v1.2: 32 bounded outcomes and 397 unreviewed selected fields**; the original appendix bytes were not recovered. Those are dated checkpoint values, not the current coverage.
+- The retained Part 3 draft reports a **7 October 2026 / v1.24 snapshot: 120 bounded assessment units and 58 unreviewed selected fields**; this does not byte-verify the unrecovered v1.24 ledger. Its historical statement must not be silently read as the latest state.
 - This study reports **v1.25: 152 bounded assessment units, 585 selected fields and zero unreviewed selected fields**. Full historical adjudication is still incomplete. These counts measure selected-ledger curation.
 - An early exploratory validator draft used 595 differing fields. Current verified selected-ledger coverage uses 585. The 595 statement is excluded as a current result; its origin has not been invented.
 - An older case description called a strict rejection a semantically valid rejection. The later article withheld that semantic judgment; this preview reports structural rejection only. A fixed-order prompt pair does not establish a causal format effect.
@@ -24,3 +24,8 @@ Link verification establishes the accessible destination, title, author and seri
 - The published Part 2 reports 241 classified findings; this preview's 242 run/result rows are a different recorded unit. Neither number replaces the other, and they are not treated as an interchangeable denominator.
 
 This repository contains a derived register, summaries and curated data, not the protected article texts, historical article figures, reviewer packages or Part 3's new figures. The original sources remain unchanged. Any full-article disclosure needs its own review, rights verification, dated checkpoint note and actual destination check.
+
+
+## Dated correction record
+
+Consult [V1 errata](../corrections/V1_ERRATA.md) and its complete 28-claim and 42-entry tables before citing Parts 1–3. The repository correction record and its Git version identify the corrections available in that version. This does not establish current article-body equality, corrected LinkedIn text or independent verification of an external correction URL. LinkedIn correction notices are uninserted templates requiring separate authorization and actual insertion dates. The historic preview and DOI version remain unchanged. Part 4 publication remains on HOLD pending its separate requirements and owner approval.

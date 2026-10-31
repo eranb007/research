@@ -1,3 +1,7 @@
+> **Evidence correction:** The original historical narratives below are retained for context. Their current interpretation is governed by the [dated V1 errata](corrections/V1_ERRATA.md), the 28 claim dispositions and the 42-entry missing-source register. Derived documentary agreement and invented controls do not establish recovery or replay of original requests, outputs or historical proof bodies.
+
+---
+
 # Methodology and evidence boundaries
 
 ## Evidence groups
@@ -23,9 +27,9 @@ The original runner parsed JSON. A successful parse is not a recovered independe
 
 ## Evaluation and reconciliation
 
-Preserve initial researcher labels, original single-agent review, team assessments, separately authored review and post-debate material in distinct slots. Some reviewers share a model family; prior exposure of the separately authored reviewer cannot be excluded. Independence means separate authorship/timing with this qualification, not proven blindness.
+Preserve initial researcher labels, original single-agent review, team assessments, separately authored review and post-debate material in distinct slots. Some reviewers share a model family; prior exposure of the separately authored reviewer cannot be excluded. Separate authorship/timing does not establish substantive independence or blindness. The recovered matrix attributes original security adjudication to Codex; qualified human scientific adjudication and sole authorship of all 241 labels remain unestablished.
 
-Reconciliation checks exact source identity and contract, distinguishes the claimed mechanism from separately discovered defects and uses small discriminating controls. Alternative adapters are countermodels when platform policy is absent. They do not reconstruct real entitlement or transaction behavior. Only new disposition/provenance fields are applied to frozen ledger values. Zero residual selected fields means every selected disagreement received a bounded disposition; it does not mean every disposition resolves uncertainty or creates consensus.
+The declared reconciliation procedure checks source identity and contract where bytes are available. The later bounded closure does not authenticate unrecovered originals or all historical source joins. The procedure distinguishes the claimed mechanism from separately discovered defects and uses small discriminating controls. Alternative adapters are countermodels when platform policy is absent. They do not reconstruct real entitlement or transaction behavior. Only new disposition/provenance fields are applied to frozen ledger values. Zero residual selected fields means every selected disagreement received a bounded disposition; it does not mean every disposition resolves uncertainty or creates consensus.
 
 ## Allowed interpretation
 
